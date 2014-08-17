@@ -1,0 +1,166 @@
+#### Welcome ####
+## Blink. ##
+
+*Thank you. We admire your work... We are a small but ____ design studio in San Francisco.*
+
+
+
+#### Exposition ####
+*Brilliance. Benevolence. Simplicity. Hope.*
+* A little stale / academic currently*
+
+
+
+#### Challenge ####
+*To move from academia to retail reality.*
+*Birth an emergent brand: human, inspiring, "authentic futurism";*
+
+
+
+#### Vision ####
+- *Radically simple*
+- *Surprisingly delightful*
+- *Effortlessly brilliant*
+- *Honest*
+- *Fresh*
+
+
+### The Healer ###
+- Health & Wellness
+- Earth / Heart / Flow
+- Maternal; 45 educated, loving earth goddess.
+- Feels like: Bed & Breakfast
+- Loving, comfortable, safe.
+
+
+### The Stoic ###
+- Simple, minimalist, direct, efficient.
+- Aether / Crown / Stillness
+- I gotta have more whitespace!
+- Feels like: Square + Apple + Aether
+
+
+### The Poet ###
+- What is it to see? Sight is precious. A meditation on seeing. Micro / Macro. Texture. Detail. Elegance.
+- Water / Throat / Lyrical
+30 year old artist / architect / poet.
+- Timeless / Curated / Luxury / Emotional
+- Feels like: Kinfolk + _____
+
+
+### The Populist ###
+- "You won't believe how fun and simple this is! Woo hoo!" Fun. Fresh. Bright. Hide complexity.
+- Fire / Sacral / Flow
+- 25 year old PR girl
+- Emphasize Social Element
+- Monoline, bright, illustrated, Moneal photography.
+- Democratic / Populist / About the people
+- Lab coats & cute hipsters in glasses.
+- Feels like: Square + One + Warby
+
+
+### The Inventor ###
+- The optometrist, reinvented.
+- Air / Brow / Staccato
+- Gee whiz. Emphasize the tech / object; Gear porn.
+- Emphasize medical / technology / future angle.
+- Data viz / illustration / 
+- 38 year old wunderkind doctor
+- Feels like: Google + 53 + Stanford Hospital
+
+
+
+#### Process ###
+
+
+- Rapid Prototype
+
+
+- Experience Design
+
+
+- Anthropology
+
+
+- Pattern Language
+
+
+
+#### Deliverables ####
+
+
+
+#### Portfolio ####
+
+
+##- A Human Right##
+
+
+## - Immunity Project ##
+
+
+## - Unifi ##
+
+
+## - Rest ##
+
+
+## - Factory X / Immersion ##
+
+
+## - Energy Future ##
+
+
+
+#### Time & Deliverables ####
+
+
+- **Phase 1**
+  -- Customer Archetypes (personas, behavior & expectations)
+  -- Design Audit
+
+
+- **Phase 2**
+  -- Service design
+
+
+- **Phase 3**
+  -- Brand / Marketing Strategy
+  -- Service Identity (name, logo, marketing, mobile)
+  -- Mobile UX Prototype
+  -- Mobile demo video
+  -- Marketing Site
+
+
+- **Phase X**
+  -- Additional web products
+
+
+
+#### Budget ####
+Item | Budget
+-----|-------
+Carson Linforth Bowley | Lion Isis | 
+Director | Executive Producer | Producer
+
+
+
+#### Team ####
+Name | Role
+-----|-------
+Carson | Creative Director
+Lion | Strategy & Management
+Robin | Design Research
+Dan Johnson | Photo & Film & Design
+Michael Chichi | IxDesign
+Fractal Labs | Development
+
+
+
+<!-- .slide: data-background="/lib/img/osawa.jpg" -->
+
+
+<!-- .slide: data-background="/lib/img/triptych.jpg" -->
+
+
+<video class="stretch" src="/lib/vid/texture.mp4" autoplay loop mute></video>

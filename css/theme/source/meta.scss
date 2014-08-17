@@ -1,0 +1,125 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is brown.
+ *
+ * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'EB Garamond', 'Book Antiqua', Palatino, FreeSerif, serif;
+$mainColor: #030303;
+$headingFont: 'Palatino Linotype', 'Book Antiqua', Palatino, FreeSerif, serif;
+$headingColor: #383D3D;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor: #F8F8F8;
+$linkColor: #9B9793;
+$linkColorHover: lighten( $linkColor, 20% );
+$selectionBackgroundColor: #CCC;
+
+.lowbar {
+
+	position: fixed;
+	bottom: 1em;
+	width: 100%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	text-align: center;
+
+	.logo {
+		width: 2em;
+		bottom: 1.6em;
+	}
+}
+
+.reveal a:not(.image) {
+  line-height: 1.3em;
+}
+
+.reveal {
+
+	img.logo.welcome {
+		border-bottom: 1px solid rgba(0,0,0,0.3);
+		padding: 0 0 2em;
+		margin: 0 0 1em;
+	}
+
+	.progress {
+		top: auto;
+		bottom: 0;
+		height: 6px
+	}
+
+	.controls {
+		right: 0;
+		bottom: 10px;
+		left: 0;
+		margin: 0 auto;
+
+		div {
+			border: 10px solid transparent;
+		}
+
+			div.navigate-right {
+				left: 184px;
+				top: 35px;
+				border-left-width: 10px;
+			}
+
+			div.navigate-left {
+				right: 184px;
+				top: 35px;
+				border-right-width: 10px;
+			}
+
+			div.navigate-up {
+				left: 45px;
+				top: -24px;
+				border-bottom-width: 10px;
+			}
+
+			div.navigate-down {
+				left: 45px;
+				top: 93px;
+				border-top-width: 10px;
+			}
+
+	}
+
+	h1 {
+		font-family: "Gotham";
+	}
+
+	h2 {
+		font-family: "Gotham";
+		margin-bottom: .6em;
+	}
+
+	h4 {
+		font-family: "Gotham" !important;
+		text-transform: uppercase !important;
+		letter-spacing: .6em;
+		font-weight: 500;
+		font-size: 0.8em;
+		letter-spacing: 0.6em !important;
+		// position: fixed;
+		// top: -120px;
+		// left: 0;
+		// right: 0;
+	}
+
+}
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+				
