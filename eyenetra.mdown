@@ -221,4 +221,14 @@ Fractal Labs | Development
 
 
 
+<<<<<<< HEAD
 <video class="stretch" src="/lib/vid/texture.mp4" autoplay loop muted></video>
+=======
+<!-- .slide: data-background="/lib/img/osawa.jpg" -->
+
+
+<!-- .slide: data-background="/lib/img/triptych.jpg" -->
+
+
+<video class="stretch" src="/lib/vid/texture.mp4" autoplay loop mute></video>
+>>>>>>> 18af7a524aa31980fc36b1e807055715e0685722

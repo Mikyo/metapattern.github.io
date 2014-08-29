@@ -46,7 +46,7 @@ Let's get started.
 
 <img src="/lib/img/timeline-present.svg" width="60%" />
 
-* While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process. 2.4 Billion people *
+*While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process. 2.4 Billion people*
 
 
 ### The Future ###
@@ -166,8 +166,7 @@ Founded by 3 young mechanical engineers from MIT, [Rest](http://www.restdevices.
 ### Factory ###
 
 ##### Introduction ######
-Lorem ipsum Commodo ea tempor tempor id ut amet commodo aliqua quis dolor sint in officia est esse aliquip consectetur magna nisi eiusmod dolore esse Duis dolore dolore laborum veniam nostrud cupidatat non consequat occaecat.
-
+Factory is an innovation colony in San Francisco. 
 
 ### Energy Future ###
 
