@@ -41,21 +41,19 @@
 
 		<div class="reveal">
 
+		<header style="position: absolute;top: 50px; left: 100px; z-index:500; font-size:100px;background-color: rgba(0,0,0,0.5)"></header>
 
 		<div class="lowbar">
-			<img width="100" src="logo.svg" alt="Metapattern" class="logo">
+			<span class="footnote left">Metapattern × EyeNetra</span>
+			<img width="1em" src="logo.svg" alt="Metapattern" class="logo">
+			<span class="footnote right">August 22, 2014</span>
 		</div>
 
 
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 
-				<section>
-					<img width="100" src="logo.svg" alt="Metapattern" class="logo welcome">
-					<h2>Eyenetra</h2>
-				</section>
-				
-				<section data-markdown="eyenetra.mdown"  
+				<section data-markdown="https://raw.githubusercontent.com/Metapattern/Eyenetra/master/eyenetra.mdown"  
 				         data-separator="^\n\n\n"  
 				         data-vertical="^\n\n"  
 				         data-notes="^Note:"  
@@ -78,12 +76,14 @@
 				progress: true,
 				history: true,
 				center: true,
-				slideNumber: true,
+				slideNumber: false,
 				loop: false,
+				livereload: true,
+				previewLinks:true,
 
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
 				transition: Reveal.getQueryHash().transition || 'concave', // default/cube/page/concave/zoom/linear/fade/none
-				transitionSpeed: 'slow', // default/fast/slow
+				transitionSpeed: 'default', // default/fast/slow
 
 				// Parallax scrolling
 				// parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',

@@ -1,0 +1,178 @@
+## Blink ##
+<!-- .slide: id="slide-title" -->
+##### Identity & Experience#####
+
+*An interactive proposal by Metapattern*
+
+
+
+##### Contents #####
+<!-- .slide: id="contents" class="center" -->
+</br>
+
+1. [Welcome](#/welcome)
+2. [History](#/history)
+3. [Process](#/process)
+4. [Deliverables](#/deliverables)
+5. [Team](#/team)
+6. [Timeline](#/timeline)
+7. [Budget](#/budget)
+8. [Case Studies](#/casestudies)
+
+
+
+### Welcome. ###
+<!-- .slide: data-background="/lib/img/eye.jpg" data-background-color="#000" class="white narrow" id="welcome" -->
+
+After years of brilliant research and development, EyeNetra has the potential to change how the world sees in a real and massive way. You've won awards, wowed TED, and earned the respect (and investment) of billionaires. But now, it's time to go to market.
+
+Let's get started.
+
+
+
+#### On History ####
+
+
+### The Past ###
+<!-- .slide: data-background="/lib/img/chart.jpg" id="past" class="narrow" -->
+
+<img src="/lib/img/timeline-past.svg" width="60%" />
+
+*Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eyecare that seamlessly connects thousands of Visioneers in the field worldwide to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
+
+
+### The Present ###
+<!-- .slide: data-background="/lib/img/phoropter.jpg" id="present" class="narrow" -->
+
+<img src="/lib/img/timeline-present.svg" width="60%" />
+
+* While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process. 2.4 Billion people *
+
+
+### The Future ###
+<!-- .slide: id="future" class="narrow" -->
+
+<img src="/lib/img/timeline-future.svg" width="60%" />
+
+*Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam, connecting centralized optometrists to thousands of Visioneers in the field around the world. In 2015 they launch Blink, a true revolution in eyecare that seamlessly integrates diagnosis. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
+
+
+
+#### About Metapattern ####
+<!-- .slide: id="about" -->
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur aliquam itaque ea explicabo eum corporis, vel quas ex totam quo sequi, soluta eveniet rerum, quis quisquam aperiam!
+
+A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto facere quaerat earum nisi sed vero aperiam quia odio saepe molestias cupiditate possimus sit, dolores velit veritatis. Tempora dolorem possimus iure est ipsa quaerat!
+
+
+
+#### Our Process ####
+<!-- .slide: id="process" -->
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur aliquam itaque ea explicabo eum corporis, vel quas ex totam quo sequi, soluta eveniet rerum, quis quisquam aperiam!
+
+A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto facere quaerat earum nisi sed vero aperiam quia odio saepe molestias cupiditate possimus sit, dolores velit veritatis. Tempora dolorem possimus iure est ipsa quaerat!
+
+
+##### Process #####
+### Strategy ###
+<!-- .slide: data-transition="fade" id="process-strategy" class="wide" -->
+<img class="stretch" src="/lib/img/chart-process-05.svg" alt="">
+
+
+##### Process #####
+### Design ###
+<!-- .slide: data-transition="fade" id="process-design" class="wide" -->
+<img class="stretch" src="/lib/img/chart-process-06.svg" alt="">
+
+
+
+#### Our Team ####
+<!-- .slide: id="team" class="wide" -->
+
+
+<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+### Carson Linforth Bowley ###
+##### Creative Director #####
+Carson leads the Metapattern team as Creative Director, working to synthesize the constituent disciplines into a compelling and coherent whole. Having worked as a self-taught graphic and interactive designer for almost 15 years, his projects have transcended mediums including identity, interactive and experience design.
+
+Before founding Metapattern in 2012, he apprenticed with Michael Ventura, CEO / CCO of the experience design agency Sub Rosa, and prior spent six years at Sony Pictures, leading design and product development of their nascent mobile and web ventures.
+
+
+<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+### Maricarmen Sierra ###
+##### Experience Designer #####
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+
+<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+### Pam Scott ###
+##### Brand Strategist #####
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+
+<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+### Lion Isis ###
+##### Producer #####
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+
+#### Production Team ####
+
+<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">
+---|---|---|---|---
+**Michael O'neal**|**David Begler** | **Dan Johnson** | **Robin Waldroup** | **Caseysimone Cooper** | **Fractal Labs**
+*Photographer*|*Copywriter*|*Art Director*|*Researcher*|*Research Assistant*|*Web Developer*
+---|---|---|---|---|---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.
+<!-- .slide: id="team-secondary" class="wide" -->
+
+
+#### Advisors ####
+
+<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">
+---|---|---
+**Tom Chi**|**Mike Parsons** | **Scott Kraft**
+*Rapid Prototyping*|*Advertising*|*Marketing Strategy*
+---|---|---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| 
+
+
+
+#### Budget ####
+<!-- .slide: id="budget" -->
+
+
+
+#### Case Studies ####
+<!-- .slide: id="casestudies" -->
+
+
+### A Human Right ###
+
+Metapattern worked with A Human Right, a globally-focused NGO dedicated to connecting the 5 Billion humans currently living without internet access, to refine their brand identity and launch an immersive storytelling experience through a redesigned website. A series of visual vignettes to bring to life the true important of the internet: Political freedom (egypt), economic opportuntiy (Kenya), Disaster relief (Haiti), education (Afghanistan) and Global telemedicine.
+
+
+### Rest ###
+
+Founded by 3 young mechanical engineers from MIT, [Rest](http://www.restdevices.com) is a Boston-based biotechnology company aiming to disrupt the sleep diagnostic market with a radically more comfortable and efficient system for identifying respiratory disorders. Metapattern worked with rest to define their brand essence, build a strong visual identity, and launch a multi-screen digital presence.
+
+
+### Factory ###
+
+
+### Energy Future ###
+
+
+### Immunity Project ###
+A collaboration between 
+
+
+
+#### Thank you. ####
+<!-- .slide: data-background="/lib/img/stones.jpg" -->

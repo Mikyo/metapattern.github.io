@@ -15,9 +15,9 @@ module.exports = function(grunt) {
 				' */'
 		},
 
-		// qunit: {
-		// 	files: [ 'test/*.html' ]
-		// },
+		qunit: {
+			files: [ 'test/*.html' ]
+		},
 
 		uglify: {
 			options: {
@@ -67,6 +67,7 @@ module.exports = function(grunt) {
 				eqnull: true,
 				browser: true,
 				expr: true,
+				smarttabs: true,
 				globals: {
 					head: false,
 					module: false,
