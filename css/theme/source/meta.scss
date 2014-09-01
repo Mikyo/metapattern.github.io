@@ -25,6 +25,14 @@ $linkColor: #9B9793;
 $linkColorHover: lighten( $linkColor, 20% );
 $selectionBackgroundColor: #CCC;
 
+img.round {
+	border-radius: 50em;
+}
+
+img.display {
+	margin-top: -10em;
+}
+
 .lowbar {
 
 	position: fixed;
@@ -169,9 +177,10 @@ $selectionBackgroundColor: #CCC;
 		text-transform: uppercase !important;
 		letter-spacing: .6em;
 		font-weight: 300;
-		font-size: 0.5em;
+		font-size: 0.4em;
 		letter-spacing: 0.6em !important;
-		margin-bottom: 1.2em !important;
+		margin-bottom: 3em !important;
+		margin-top: -1em !important;
 
 	}
 

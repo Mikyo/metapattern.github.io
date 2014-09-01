@@ -4,6 +4,12 @@
  *
  * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
  */
+img.round {
+  border-radius: 50em; }
+
+img.display {
+  margin-top: -10em; }
+
 .lowbar {
   position: fixed;
   bottom: 1em;
@@ -97,9 +103,10 @@
   text-transform: uppercase !important;
   letter-spacing: .6em;
   font-weight: 300;
-  font-size: 0.5em;
+  font-size: 0.4em;
   letter-spacing: 0.6em !important;
-  margin-bottom: 1.2em !important; }
+  margin-bottom: 3em !important;
+  margin-top: -1em !important; }
 .reveal table {
   width: 100%;
   margin: auto;

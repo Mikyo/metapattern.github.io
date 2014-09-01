@@ -21,12 +21,12 @@
 
 
 
-### Welcome. ###
 <!-- .slide: data-background="/lib/img/eye.jpg" data-background-color="#000" class="white narrow" id="welcome" -->
+## Eyecare, evolved. ##
 
-After years of brilliant research and development, EyeNetra has the potential to change how the world sees in a real and massive way. You've won awards, wowed TED, and earned the respect (and investment) of billionaires. But now, it's time to go to market.
+After years of brilliant research and development, EyeNetra has the potential to change how the world sees on a truly massive scale. You've won awards, wowed TED, and earned the respect (and investment) of billionaires. But now, it's time to go to market. To succeed, you'll need to understand your customer's needs, construct a compelling brand identity and a simple and delightful brand experience.
 
-Let's get started.
+We're here to help.
 
 
 
@@ -46,28 +46,21 @@ Let's get started.
 
 <img src="/lib/img/timeline-present.svg" width="60%" />
 
-*While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process. 2.4 Billion people*
+*While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process.  2.4 Billion people*
 
 
 ### The Future ###
-<!-- .slide: id="future" class="narrow" -->
+<!-- .slide: data-background="/lib/img/netra-2.jpg" id="future" class="narrow" -->
 
 <img src="/lib/img/timeline-future.svg" width="60%" />
 
-*Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam, connecting centralized optometrists to thousands of Visioneers in the field around the world. In 2015 they launch Blink, a true revolution in eyecare that seamlessly integrates diagnosis. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
+*Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eyecare that seamlessly connects thousands of Visioneers in the field worldwide to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
 
 
 
-#### About Metapattern ####
+## We are metapattern. ##
 <!-- .slide: id="about" -->
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur aliquam itaque ea explicabo eum corporis, vel quas ex totam quo sequi, soluta eveniet rerum, quis quisquam aperiam!
 
-A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto facere quaerat earum nisi sed vero aperiam quia odio saepe molestias cupiditate possimus sit, dolores velit veritatis. Tempora dolorem possimus iure est ipsa quaerat!
-
-
-
-#### Our Process ####
-<!-- .slide: id="process" -->
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur aliquam itaque ea explicabo eum corporis, vel quas ex totam quo sequi, soluta eveniet rerum, quis quisquam aperiam!
 
 A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto facere quaerat earum nisi sed vero aperiam quia odio saepe molestias cupiditate possimus sit, dolores velit veritatis. Tempora dolorem possimus iure est ipsa quaerat!
@@ -86,66 +79,71 @@ A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto 
 
 
 
-#### Our Team ####
 <!-- .slide: id="team" class="wide" -->
-
-
-<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+<img src="/lib/img/team-assets/carson.png" width="200px" alt="" class="round">
 ### Carson Linforth Bowley ###
-##### Creative Director #####
+##### Creative Synthesis #####
 Carson leads the Metapattern team as Creative Director, working to synthesize the constituent disciplines into a compelling and coherent whole. Having worked as a self-taught graphic and interactive designer for almost 15 years, his projects have transcended mediums including identity, interactive and experience design.
 
 Before founding Metapattern in 2012, he apprenticed with Michael Ventura, CEO / CCO of the experience design agency Sub Rosa, and prior spent six years at Sony Pictures, leading design and product development of their nascent mobile and web ventures.
 
 
-<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+<img src="/lib/img/team-assets/monica.png" width="200px" alt="" class="round">
+### Monica Laurence ###
+##### Brand Strategy #####
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+
+<img src="/lib/img/team-assets/jesse.png" width="200px" alt="" class="round">
+### Jesse Lawson ###
+##### Brand Strategy #####
+Jesse is a partner in Amorphous, a brand and innovation consultancy, helping businesses invent new and more effective forms of marketing—from apps to content, spaces, events, games, partnerships, and more. Clients include Nike, Xbox, Activision, Puma, Diageo, LINE, Lenovo, P&G, Droga5, Wieden + Kennedy, BBH, twofifteenmccann, FACTORY, Silver + Partners and Saatchi & Saatchi.
+
+Previously, Jesse was a planning director at twofifteenmccann in San Francisco, and held senior level strategy positions at Euro RSCG New York and digital agency Velocity. During this time, he led planning for Microsoft, Coca-Cola, Jaguar, HP, TOMS Shoes, Annie's, Wired, GM, Kraft, Reckitt Benckiser and AirFrance, among others.
+
+
+<img src="/lib/img/team-assets/mari.png" width="200px" alt="" class="round">
 ### Maricarmen Sierra ###
-##### Experience Designer #####
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+##### Experience Design #####
+With an MBA in Design Strategy and over 9 years teaching and practicing yoga, Maricarmens' work blends the lines between cultural anthropology, creative direction and innovation strategy. She has worked with agents of cultural change in both cities, including city governments, revolutionary artists, tech startups and design consultancies. 
 
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
-
-
-<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
-### Pam Scott ###
-##### Brand Strategist #####
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
-
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+She's deeply interested in connecting the subtlety of the senses and human behavior with our understanding of complex cultural and economic systems to expand our evolving sense of humanity in the emerging digital era.
 
 
-<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+<img src="/lib/img/team-assets/lion.png" width="200px" alt="" class="round">
 ### Lion Isis ###
-##### Producer #####
+##### Operations #####
 Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
 
 Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
 
 
-#### Production Team ####
+<img src="/lib/img/team-assets/marwan.png" width="200px" alt="" class="round">
+### Marwan Hilmi ###
+##### Technology #####
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
 
-<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">
----|---|---|---|---
-**Michael O'neal**|**David Begler** | **Dan Johnson** | **Robin Waldroup** | **Caseysimone Cooper** | **Fractal Labs**
-*Photographer*|*Copywriter*|*Art Director*|*Researcher*|*Research Assistant*|*Web Developer*
----|---|---|---|---|---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.
-<!-- .slide: id="team-secondary" class="wide" -->
+Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+
+
+<img src="/lib/img/team-assets/dan.png" width="150px" alt="" class="round">|<img src="/lib/img/team-assets/robin.png" width="150px" alt="" class="round">|<img src="/lib/img/team-assets/caseysimone.png" width="150px" alt="" class="round">
+---|---|---
+**Dan Johnson** | **Robin Waldroup** | **Caseysimone Cooper**
+*Photographer*|*Researcher*|*Intern*
+---|---|---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.
 
 
 #### Advisors ####
 
-<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="150px" alt="">
----|---|---
-**Tom Chi**|**Mike Parsons** | **Scott Kraft**
-*Rapid Prototyping*|*Advertising*|*Marketing Strategy*
----|---|---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| 
-
-
-
-#### Budget ####
-<!-- .slide: id="budget" -->
+<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+---|---
+**Mike Parsons** | **Scott Kraft**
+*Marketing / Advertising*|*Marketing Strategy*
+---|---
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| 
 
 
 
@@ -153,26 +151,51 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id el
 <!-- .slide: id="casestudies" -->
 
 
-### A Human Right ###
+### Advance ###
+##### Architecture / Identity / Experience #####
 
-Metapattern worked with A Human Right, a globally-focused NGO dedicated to connecting the 5 Billion humans currently living without internet access, to refine their brand identity and launch an immersive storytelling experience through a redesigned website. A series of visual vignettes to bring to life the true important of the internet: Political freedom (egypt), economic opportuntiy (Kenya), Disaster relief (Haiti), education (Afghanistan) and Global telemedicine.
+Metapattern's first spin-off company,  Advance builds and operates nomadic camps for creative exploration. Think 21st-century zen safari camp. Off-grid eco-luxury, packed into modified shipping containers and deployable anywhere on Earth to host intimate gatherings for groups to connect with themselves, each other and Nature.
+
+We initiated and led the project including initial concept, business plan, physical architecture, furniture, experience design, operations strategy, brand identity, photography, digital renders, marketing materials and website. We executed the launch campaign for the first camp deployment and positioned Advance as a state of the art premium experience in a new market (nomadic luxury hospitality).
+
+
+### A Human Right ###
+##### Identity / Digital #####
+
+Metapattern worked with [A Human Right](http://www.ahumanright.org), a globally-focused NGO dedicated to connecting the 5 Billion humans currently living without internet access, to refine their brand identity and launch an immersive storytelling experience through a redesigned website. We crafted a series of visual vignettes to bring to life the global importance of the internet, from Kenya to Afghanistan to Egypt.
+
+With the aid of our identity and storytelling design, A Human Right's founder Kosta Grammatis (a Media Lab alumnus) was a finalist for last year's TED Prize, and the site has reached hundreds of thousands of visitors.
+
+
+### Essential Oxygen ###
+##### Identity / Packaging / Digital ######
+Domino is a digital campaign and utility being developed in parallel with a major feature documentary on climate change to be released in Summer 2015. 
 
 
 ### Rest ###
+##### Naming / Identity / Digital #####
 
-Founded by 3 young mechanical engineers from MIT, [Rest](http://www.restdevices.com) is a Boston-based biotechnology company aiming to disrupt the sleep diagnostic market with a radically more comfortable and efficient system for identifying respiratory disorders. Metapattern worked with rest to define their brand essence, build a strong visual identity, and launch a multi-screen digital presence.
+Founded by 3 young mechanical engineers from MIT, [Rest](http://www.restdevices.com) is a Boston-based biotechnology company aiming to disrupt the sleep diagnostic market with a radically more comfortable and efficient system for identifying respiratory disorders using sensors embedded in sleepwear. Rest (then 'Nyx') approached Metapattern to develop their name, visual identity and digital marketing. 
 
 
 ### Factory ###
+##### Research / Production / Prototyping ######
+Factory is an experimental innovation colony in San Francisco. Based in a modernized historic Victorian mansion, Factory brings together leading brands with top innovators for 2-day intensive prototyping workshops (Immersions). As one of Factory's strategic partners, Metapattern provides experience design, production and rapid prototyping services.
 
-##### Introduction ######
-Factory is an innovation colony in San Francisco. 
 
-### Energy Future ###
+### Domino ###
+##### Prototyping / Development / Design ######
+Domino is a digital campaign and utility being developed in parallel with a major feature documentary on climate change to be released in Summer 2015. 
 
 
 ### Immunity Project ###
-A collaboration between 
+##### Identity / Digital ######
+
+The Immunity Project is developing a revolutionary vaccine against HIV, using machine learning. They asked Metapattern to help them communicate their story with the world.
+
+We guided the entire team through a series of design workshops, discovery and ideation sessions to identify the essence of the brand, the core values and the visual imagery needed to represent with clarity and accuracy the essence of Immunity Project's vision.
+
+Their crowdfunding campaign successfully raised $482,000 and was backed by Y Combinator and Microsoft Research. Today they are working towards human clinical trials for 2015.
 
 
 
