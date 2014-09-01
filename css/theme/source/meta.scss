@@ -36,7 +36,7 @@ img.display {
 .lowbar {
 
 	position: fixed;
-	bottom: 1em;
+	bottom: 0.5em;
 	width: 100%;
 	left: 0;
 	right: 0;
@@ -94,7 +94,7 @@ img.display {
 
 	.controls {
 		right: 0;
-		bottom: 10px;
+		bottom: 0;
 		left: 0;
 		margin: 0 auto;
 
@@ -118,12 +118,14 @@ img.display {
 				left: 45px;
 				top: -24px;
 				border-bottom-width: 10px;
+				display: none;
 			}
 
 			div.navigate-down {
 				left: 45px;
 				top: 93px;
 				border-top-width: 10px;
+				display: none;
 			}
 
 	}

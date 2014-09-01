@@ -12,7 +12,7 @@ img.display {
 
 .lowbar {
   position: fixed;
-  bottom: 1em;
+  bottom: 0.5em;
   width: 100%;
   left: 0;
   right: 0;
@@ -52,7 +52,7 @@ img.display {
   height: 6px; }
 .reveal .controls {
   right: 0;
-  bottom: 10px;
+  bottom: 0;
   left: 0;
   margin: 0 auto; }
   .reveal .controls div {
@@ -68,11 +68,13 @@ img.display {
   .reveal .controls div.navigate-up {
     left: 45px;
     top: -24px;
-    border-bottom-width: 10px; }
+    border-bottom-width: 10px;
+    display: none; }
   .reveal .controls div.navigate-down {
     left: 45px;
     top: 93px;
-    border-top-width: 10px; }
+    border-top-width: 10px;
+    display: none; }
 .reveal p {
   font-size: 0.6em;
   line-height: 1.6em;
