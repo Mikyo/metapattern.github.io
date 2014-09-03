@@ -137,6 +137,10 @@ img.display {
 		max-width: 35em;
 	}
 
+	blockquote p {
+		margin: 0 auto;
+	}
+
 	ol {
 		list-style-type: lower-roman;
 	}
@@ -181,8 +185,8 @@ img.display {
 		font-weight: 300;
 		font-size: 0.4em;
 		letter-spacing: 0.6em !important;
-		margin-bottom: 3em !important;
-		margin-top: -1em !important;
+		margin-bottom: 1em !important;
+		margin-top: 2em !important;
 
 	}
 
