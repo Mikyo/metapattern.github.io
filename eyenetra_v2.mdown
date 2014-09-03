@@ -218,6 +218,7 @@ Metapattern's first spin-off company,  Advance builds and operates nomadic camps
 We initiated and led the project including initial concept, business plan, physical architecture, furniture, experience design, operations strategy, brand identity, photography, digital renders, marketing materials and website. We executed the launch campaign for the first camp deployment and positioned Advance as a state of the art premium experience in a new market (nomadic luxury hospitality).
 
 
+<!-- .slide: data-background="/lib/img/case-ahr.jpg" class="narrow" -->
 ### A Human Right ###
 ##### Identity / Digital #####
 
@@ -226,6 +227,7 @@ Metapattern worked with [A Human Right](http://www.ahumanright.org), a globally-
 With the aid of our identity and storytelling design, A Human Right's founder Kosta Grammatis (a Media Lab alumnus) was a finalist for last year's TED Prize, and the site has reached hundreds of thousands of visitors.
 
 
+<!-- .slide: data-background="/lib/img/case-eo.jpg" class="narrow" -->
 ### Essential Oxygen ###
 ##### Identity / Packaging / Digital ######
 EssentialOxygen is dedicated to making the cleanest and most effective oral health products possible. While most oral care products contain chemicals like flouride and sodium laurel sulfate which are proving counterproductive to oral health, EssentialOxygen's unique formulations use only food-grade hydrogen peroxide and organic essential oils.
