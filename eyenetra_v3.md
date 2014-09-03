@@ -5,7 +5,7 @@
 
 
 
-<!-- .slide: data-background="/lib/img/eye.jpg" data-background-color="#000" class="white narrow" id="welcome" -->
+<!-- .slide: data-background="/lib/img/eye.JPG" data-background-color="#000" class="white narrow" id="welcome" -->
 ## Eyecare, evolved. ##
 
 After years of brilliant research and development, EyeNetra has the potential to change how the world sees on a truly massive scale. You've won awards, wowed TED, and earned the respect (and investment) of billionaires. But now, it's time to go to market. To succeed, you'll need to understand your customer's needs, construct a compelling brand identity and a simple and delightful brand experience.
