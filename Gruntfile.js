@@ -16,6 +16,7 @@ module.exports = function(grunt) {
 		},
 
 		qunit: {
+			options: {force: true},
 			files: [ 'test/*.html' ]
 		},
 
@@ -68,6 +69,7 @@ module.exports = function(grunt) {
 				browser: true,
 				expr: true,
 				smarttabs: true,
+				force: true,
 				globals: {
 					head: false,
 					module: false,
