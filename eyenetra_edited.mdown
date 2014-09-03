@@ -350,3 +350,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque iusto soluta, o
   </tbody>
 </table>
 
+
+
+
+<img src="/lib/img/team-assets/monica.png" width="120px" alt="" class="round">
+### Monica Laurence ###
+##### Strategy #####
+Monica Laurence combines entertainment, technology and marketing to shape the identities of her clients and share them with the world. She believes that every individual, organization and place has a purpose and a unique contribution to make, and framed well, their stories can inspire each of us to rise to our fullest potential. Monica is attracted to game-changing disruption, working with innovative global firms and Silicon Valley start-ups to craft brand and identity, establish positioning and key messages, and define their strategies, business models, and marketing initiatives that yield success.
+
+ Monica has held CEO and CMO positions with entertainment, hospitality and social media start-ups. She managed corporate development and strategic planning at Lucasfilm, worked in motion picture marketing for Disney, drove sales and marketing for private island resort Turtle Island, and ran Tiny Planets, an award-winning children’s TV series and portal of online games in London. Monica holds a BS in Computer Science from Bucknell University and an MBA in Strategy and Entertainment from UCLA.

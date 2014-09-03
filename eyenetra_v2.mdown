@@ -71,15 +71,15 @@ We believe in you.
 
 #####Deliverable#####
 
-<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">
+||<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">||
 ---|---
-Alpha | Beta
+||**Vision Board** | **Culture**||
 
 #####Inputs#####
 Hopes & Dreams.
 
 #####Output#####
-The Definition of Success.
+Success, Defined.
 
 
 #### Phase 2 ####
@@ -89,23 +89,23 @@ The Definition of Success.
 
 #####Deliverables#####
 
-<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">
+<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">
 ---|---|---|---|---|---|---|---|---
-Culture | Naming | Customers | Value Proposition | Marketing | Channels | Price | Packaging | Service Experience
+**Naming** | **Customers** | **Value Proposition** | **Channels** | **Price** | **Packaging** | **Experience**
 
 #####Inputs#####
-Definition of Success
+Success, defined.
 
 #####Output#####
-Working Hypothesis
+Hypotheses.
 
 
-#### Phase 3 ####
-### Prototyping ###
+#### Phase 3
+### Prototyping
 
 > 1 week per cycle. Kickoff Monday and build all week. Friday, we test.
 
-#####Deliverables#####
+##### Deliverables
 
 <img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">
 ---|---|---
@@ -151,7 +151,7 @@ Working Hypothesis
 
 <img src="/lib/img/team-assets/carson.png" width="120px" alt="" class="round">
 ### Carson Linforth Bowley ###
-##### Creative #####
+##### Creative Direction #####
 Carson leads the Metapattern team as Creative Director, working to synthesize the constituent disciplines into a compelling and coherent whole. Having worked as a self-taught graphic and interactive designer for almost 15 years, his projects have transcended mediums including identity, interactive and experience design.
 
 Before founding Metapattern in 2012, he apprenticed with Michael Ventura, CEO / CCO of the experience design agency Sub Rosa after attempting to launch an innovation colony in Los Cabos Mexico and spending six years at Sony Pictures, leading design and product development of their nascent mobile and web ventures.
@@ -161,14 +161,6 @@ Before founding Metapattern in 2012, he apprenticed with Michael Ventura, CEO / 
 ### Jesse Lawson ###
 ##### Strategy #####
 Jesse is a marketing strategist with 12 years of experience, including strong background building new technology and cause driven brands. Currently, he is a Partner in [Amorphous](www.weareamorphous.com), a brand and innovation consultancy where he has worked with clients such as Nike, Xbox, Activision, Lenovo, LINE messenger and P&G. Previously, Jesse was a Planning Director at twofifteenmccann, the agency of record for Xbox. During this time, he led strategy for Microsoft, Coca-Cola and TOMS Shoes. Jesse has additionally held senior roles Havas Worldwide and digital agency Velocity, for clients Jaguar, Kraft, Reckitt Benckiser, AOL, GM and Wired. He holds an MBA degree from the Richard Ivey School of Business at Western University, a top international business school.
-
-
-<img src="/lib/img/team-assets/monica.png" width="120px" alt="" class="round">
-### Monica Laurence ###
-##### Strategy #####
-Monica Laurence combines entertainment, technology and marketing to shape the identities of her clients and share them with the world. She believes that every individual, organization and place has a purpose and a unique contribution to make, and framed well, their stories can inspire each of us to rise to our fullest potential. Monica is attracted to game-changing disruption, working with innovative global firms and Silicon Valley start-ups to craft brand and identity, establish positioning and key messages, and define their strategies, business models, and marketing initiatives that yield success.
-
- Monica has held CEO and CMO positions with entertainment, hospitality and social media start-ups. She managed corporate development and strategic planning at Lucasfilm, worked in motion picture marketing for Disney, drove sales and marketing for private island resort Turtle Island, and ran Tiny Planets, an award-winning children’s TV series and portal of online games in London. Monica holds a BS in Computer Science from Bucknell University and an MBA in Strategy and Entertainment from UCLA.
 
 
 <img src="/lib/img/team-assets/mari.png" width="120px" alt="" class="round">
@@ -182,7 +174,9 @@ See more of her facilitating approach [here](http://www.marisierra.com/presencey
 <img src="/lib/img/team-assets/lion.png" width="120px" alt="" class="round">
 ### Lion Isis ###
 ##### Operations #####
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
+Lion Isis is a transmedia producer, strategist, and entrepreneur.
+
+Lion has managed interdisciplinary creative teams for the last 8 years across design, film, and product development, both on the agency and brand side. In 2012, Lion joined Soma Water, a consumer product start-up, as Chief of Staff where he helped raise over $4mm in investment. Inc. Magazine declared Soma as one of the most “Audacious Companies of 2013” along side Redbull and Square. Lion is a long time student of the lean start-up methodology, having managed nearly a dozen Agile teams across continents to build innovative new brands and consumer focused products.
 
 
 <img src="/lib/img/team-assets/marwan.png" width="120px" alt="" class="round">
@@ -215,6 +209,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id el
 <!-- .slide: id="casestudies" -->
 
 
+<!-- .slide: data-background="/lib/img/display_bg.jpg" class="narrow" -->
 ### Advance ###
 ##### Architecture / Identity / Experience #####
 
@@ -248,7 +243,7 @@ Rest (then 'Nyx') approached Metapattern to develop their naming, visual identit
 
 ### Factory ###
 ##### Research / Production / Prototyping ######
-Factory is an experimental innovation colony in San Francisco. Based in a modernized historic Victorian mansion, Factory brings together leading brands with top innovators for 2-day intensive prototyping workshops (Immersions). As one of Factory's strategic partners, Metapattern provides experience design, production and rapid prototyping services.
+Factory is a private innovation lab in San Francisco. Based in a modernized historic Victorian mansion, Factory brings together leading brands with top innovators for 2-day intensive prototyping workshops (Immersions). As one of Factory's strategic partners, Metapattern provides experience design, production and rapid prototyping services.
 
 
 ### Domino ###
