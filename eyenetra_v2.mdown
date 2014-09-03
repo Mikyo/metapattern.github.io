@@ -235,6 +235,7 @@ EssentialOxygen is dedicated to making the cleanest and most effective oral heal
 EssentialOxygen approached Metapattern to establish their brand identity, including visual design, digital marketing and packaging design. When we began working together, EssentialOxygen was printing labels at home and selling from a farmers market. Today, their products are in over 2,500 stores nationwide, including every Whole Foods, with annual sales over $1 million. 
 
 
+<!-- .slide: data-background="/lib/img/case-rest.jpg" class="narrow" -->
 ### Rest ###
 ##### Naming / Identity / Digital #####
 
@@ -248,6 +249,7 @@ Rest (then 'Nyx') approached Metapattern to develop their naming, visual identit
 Factory is a private innovation lab in San Francisco. Based in a modernized historic Victorian mansion, Factory brings together leading brands with top innovators for 2-day intensive prototyping workshops (Immersions). As one of Factory's strategic partners, Metapattern provides experience design, production and rapid prototyping services.
 
 
+<!-- .slide: data-background="/lib/img/case-domino.jpg" class="narrow" -->
 ### Domino ###
 ##### Prototyping / Development / Design ######
 Domino is a digital campaign and utility being developed in parallel with a major feature documentary on climate change to be released in Summer 2015. 
