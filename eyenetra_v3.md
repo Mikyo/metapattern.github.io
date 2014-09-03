@@ -63,8 +63,7 @@ We believe in you.
 #### Our Process ####
 
 
-#### Phase 1 ####
-### Vision ###
+### Phase 1 / Vision ###
 
 >Define success, then work backwards. Within 18 months, Blink has been used by X people. Its viral coefficient is Y. People are reading about it in Z.
 
@@ -89,8 +88,7 @@ Definition of Success
 
 
 <!-- .slide: class="wide" -->
-#### Phase 2 ####
-### Discovery ###
+### Phase 2 / Discovery ###
 
 > Tune into our entrepreneurial intuition. Discover our options before building anything substantial. Explore all possible customer segments, channels and experiences. What is the company culture? Which value propositions are most compelling? In what order?
 
@@ -98,7 +96,7 @@ Definition of Success
 
 **Naming** | **Customers** | **Value Prop.** | **Channels** | **Price** | **Packaging** | **Experience**
 ---|---|---|---|---|---|---|---|---
-Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prioritized Benefits | Marketing & Distribution | Service Price, Add-Ons | Service Packages | Visioneer
+Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prioritized Benefits | Marketing & Distribution | Service Price, Add-Ons | Service Packages | Visioneer Personality & Presentation, Station Design
 
 ---
 
@@ -114,8 +112,7 @@ Working Hypotheses (An array of strategic assumptions used as a starting point f
 *$60,000*
 
 
-#### Phase 3 ####
-### Prototyping ###
+### Phase 3 / Prototyping ###
 
 > We begin with 1 day cycles. Morning: Kickoff. Afternoon: Build. Evening: Test. Once we refine our hypotheses, we gradually increase fidelity. One day becomes three days. More complexity. More testing. In the final weeks, we harness all of our learning into full, 1-week sprints. At the end, we have a clear strategy and tested, high fidelity prototype ready for production.
 
@@ -139,21 +136,15 @@ Working Prototype + Strategy + Blueprints
 *$100,000*
 
 
-#### Phase 4 ####
-### Production ###
+### Phase 4 / Production ###
 
-> 1 week per cycle. Kickoff Monday and build all week. Friday, we test.
+> Once our strategy has been validated through empirical field testing, it's time to build. We'll assemble a crack team of creative technologists, artists and filmmakers to bring Blink to life. Metapattern will lead overall creative direction and manage day-to-day operations with our collaborators.
 
 #####Deliverables#####
 
 **Brand Experience** | **Digital Experience** | **Service Experience**
 ---|---|---
-Language - Overall tone, phraseology, manifesto, copywriting (print + digital)  [ David Begler ]
-Photography - Lifestyle / Service Experience (in-home / out of home), Visioneer Portraits, Gear (goggles, tablet), Culture / Team [ Michael O’Neal ]
-Web Development - Mobile responsive marketing site  [ In House ]
-Brand Identity - Logo, Tagline, Color, Typography, Illustration [ In House ]
-Launch Video - 90 second explainer. Dead simple. Premium & contemporary scripted storytelling.  [ Sandwich ]
-App Prototype - clickable prototype for onboarding, scheduling, locator, prescription management, billing & e-commerce [ In House ]
+
 
 #####Inputs#####
 Working Prototype + Strategy + Blueprints
@@ -213,7 +204,7 @@ Marwan has always thrived on pursuing the unknown and exploring the boundaries o
 <img src="/lib/img/team-assets/dan.png" width="150px" alt="" class="round">|<img src="/lib/img/team-assets/robin.png" width="150px" alt="" class="round">|<img src="/lib/img/team-assets/caseysimone.png" width="150px" alt="" class="round">
 ---|---|---
 **Dan Johnson** | **Robin Waldroup** | **Caseysimone Cooper**
-*Art Direction*|*Research*|*Wunderkind*
+*Art Direction*|*Design Research*|*Wunderkind*
 ---|---|---
 Daniel N. Johnson is a visual artist and avid traveler, whose curiosity for experiencing new cultures and learning new languages has led him to 35+ countries with camera and notebook in tow. Johnson's travel experiences were initially funded by work as a freelance art director and animator for various ad agencies in New York City, telling stories for brands and non-profit campaigns. | Robin is a creative and analytical thinker. With background in psychology and cultural studies, she revels in the challenge of designing business solutions that create value in human terms. She has played strategic roles on founding teams for various social ventures, including Foundation for Sustainable Development, Impact Hub Bay Area, and the 5M Project. Robin received her MBA in Design Strategy from CCA | Caseysimone Cooper is an experience designer exploring the intersection of design practice and social science research.  She brings intuitive and empirically informed attention to the design of digital and physical environments, products, and brands. 
 

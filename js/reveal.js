@@ -122,7 +122,7 @@
 			focusBodyOnPageVisibilityChange: true,
 
 			// Theme (see /css/theme)
-			theme: 'Meta',
+			theme: null,
 
 			// Transition style
 			transition: 'default', // none/fade/slide/convex/concave/zoom
