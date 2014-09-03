@@ -52,7 +52,9 @@ Emerging out of the MIT Media Lab, EyeNetra develops a low-cost networked eye ex
 
 ### We are Metapattern. ###
 <!-- .slide: id="about" -->
-<br>
+
+---
+
 We're an innovation studio based in San Francisco, focused on launching purposeful new brands, products and experiences. Like yours.
 
 We believe collaborative teams making fast and frequent iterations lead to stronger products and greater alignment with reality. We believe in the future every business is a digital business, every friction an opportunity, every customer an evangelist. We believe in curiosity, courage and beauty. We believe in simplicity.
@@ -66,13 +68,17 @@ We believe in you.
 <!-- .slide: class="wide" -->
 ### Phase 1 / Vision ###
 
->Define success, then work backwards. Within 18 months, Blink has been used by X people. Its viral coefficient is Y. People are reading about it in Z.
+*1 week*
+
+>Before we can begin, we must define a north star. 18 months from launch, how many people will have heard of us? How many will we have treated? What magazines will talk about us? What cities will we launch in?
+
+---
 
 #####Deliverables#####
 
-||**Vision Board** | **Culture**||
+||**Visionary Imagery** | **Definition of Success**||
 |---|---|---|---|
-||Lorem Ipsum | Lorem Ipsum||
+||Visualization of Blink's near-term and long-term future | A set concrete goals to work backwards from||
 
 ---
 
@@ -89,9 +95,15 @@ We believe in you.
 <!-- .slide: class="wide" -->
 ### Phase 2 / Discovery ###
 
+*6 weeks*
+
 > Tune into our entrepreneurial intuition. Discover our options before building anything substantial. Explore all possible customer segments, channels and experiences. What is the company culture? Which value propositions are most compelling? In what order?
 
+---
+
 #####Deliverables#####
+
+---
 
 **Naming** | **Customers** | **Value Prop.** | **Channels** | **Price** | **Packaging** | **Experience**
 ---|---|---|---|---|---|---|---|---
@@ -112,13 +124,18 @@ Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prior
 <!-- .slide: class="wide" -->
 ### Phase 3 / Prototyping ###
 
+*6-8 weeks*
+
 > We begin with 1 day cycles. Morning: Kickoff. Afternoon: Build. Evening: Test. Once we refine our hypotheses, we gradually increase fidelity. One day becomes three days. More complexity. More testing. In the final weeks, we harness all of our learning into full, 1-week sprints. At the end, we have a clear strategy and tested, high fidelity prototype ready for production.
+
+---
 
 #####Deliverables#####
 
 **Brand Experience** | **Digital Experience** | **Service Experience**
 ---|---|---
-Lorem Ipsum | Lorem Ipsum | Lorem Ipsum
+Explore identity systems, signage & stationary | Explore how and when technology intervenes during onboarding, testing and follow-up. (desktop + mobile) | Including Visioneer (demographic, costume, language, personality), Service Flow, Ritual (like the Lyft fist bump) 
+
 ---
 
 **Inputs**: Working Prototype + Strategy + Blueprints
@@ -134,7 +151,11 @@ Lorem Ipsum | Lorem Ipsum | Lorem Ipsum
 <!-- .slide: class="wide" -->
 ### Phase 4 / Production ###
 
+*6-8 weeks*
+
 > Once our strategy has been validated through empirical field testing, it's time to build. We'll assemble a crack team of creative technologists, artists and filmmakers to bring Blink to life. Metapattern will lead overall creative direction and manage day-to-day operations with our collaborators.
+
+---
 
 #####Deliverables#####
 
@@ -150,7 +171,7 @@ Overall tone, phraseology, manifesto, copywriting (print + digital) | Lifestyle 
 
 ---
 
-##### Budget is TBD #####
+*Budget is contingent on prototyping outcomes*
 
 
 
