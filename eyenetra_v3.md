@@ -1,6 +1,5 @@
-## Blink ##
-<!-- .slide: id="slide-title" -->
-##### Identity & Experience#####
+# Blink #
+##### Identity & Experience #####
 
 *An interactive proposal by Metapattern*
 
@@ -25,9 +24,9 @@ We're here to help.
 
 <img src="/lib/img/timeline-past.svg" width="60%" />
 
-*Humans are, first and foremost, visual creatures. Through our eyes, we've evolved to see symbols, make tools and intuit trust in the eyes of others.*
+Humans are, first and foremost, visual creatures. Through our eyes, we've evolved to see symbols, make tools and intuit trust in the eyes of others.
 
-*With time or misfortune, vision problems are inevitable for each of us. But despite our fate, we cannot help but defy Nature. From primitive corrective lenses in ancient China, to the Italian renaissance to our modern medical industry, we have always developed tools to see the world more clearly.*
+With time or misfortune, vision problems are inevitable for each of us. But despite our fate, we cannot help but defy Nature. From primitive corrective lenses in ancient China, to the Italian renaissance to our modern medical industry, we have always developed tools to see the world more clearly.
 
 
 ### The Present ###
@@ -35,9 +34,9 @@ We're here to help.
 
 <img src="/lib/img/timeline-present.svg" width="60%" />
 
-*Complex tools exist today, but they're slow, disconnected and expensive. Even the simplest vision procedure, like ordering new contacts, requires hours of time, hundreds of dollars and a complex reimbursement process.*
+Complex tools exist today, but they're slow, disconnected and expensive. Even the simplest vision procedure, like ordering new contacts, requires hours of time, hundreds of dollars and a complex reimbursement process.
 
-*While digital services like Uber have disrupted entrenched industries from mobility to dry cleaning, vision care is stuck in the last millenium. Just ask yourself... when was the last major innovation in eye care?*
+While digital services like Uber have disrupted entrenched industries from mobility to dry cleaning, vision care is stuck in the last millenium. Just ask yourself... when was the last major innovation in eye care?
 
 
 ### The Future ###
@@ -45,7 +44,7 @@ We're here to help.
 
 <img src="/lib/img/timeline-future.svg" width="60%" />
 
-*Emerging out of the MIT Media Lab, EyeNetra develops a low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eye care that seamlessly connects thousands of Visioneers around the world to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple service.*
+Emerging out of the MIT Media Lab, EyeNetra develops a low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eye care that seamlessly connects thousands of Visioneers around the world to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple service.
 
 *But the future is only the beginning...*
 
@@ -53,7 +52,7 @@ We're here to help.
 
 ### We are Metapattern. ###
 <!-- .slide: id="about" -->
-
+<br>
 We're an innovation studio based in San Francisco, focused on launching purposeful new brands, products and experiences. Like yours.
 
 We believe collaborative teams making fast and frequent iterations lead to stronger products and greater alignment with reality. We believe in the future every business is a digital business, every friction an opportunity, every customer an evangelist. We believe in curiosity, courage and beauty. We believe in simplicity.
@@ -81,7 +80,7 @@ We believe in you.
 Hopes & Dreams.
 
 #####Output#####
-Success, Defined.
+Definition of Success
 
 ---
 
@@ -104,7 +103,7 @@ Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prior
 ---
 
 #####Inputs#####
-Success, defined.
+Definition of Success
 
 #####Output#####
 Working Hypotheses (An array of strategic assumptions used as a starting point for prototyping)
@@ -216,7 +215,7 @@ Marwan has always thrived on pursuing the unknown and exploring the boundaries o
 **Dan Johnson** | **Robin Waldroup** | **Caseysimone Cooper**
 *Art Direction*|*Research*|*Wunderkind*
 ---|---|---
-Daniel N. Johnson is a visual artist and avid traveler, whose curiosity for experiencing new cultures and learning new languages has led him to 35+ countries with camera and notebook in tow. Johnson's travel experiences were initially funded by work as a freelance art director and animator for various ad agencies in New York City, telling stories for brands and non-profit campaigns. | Robin received her MBA in Design Strategy where she refined her design and integrative thinking, sustainability and systems approach, finance, entrepreneurship, and generative leadership into a holistic strategic framework to create socially responsive, culturally relevant, and technologically appropriate solutions in business.| Caseysimone Cooper is an experience designer exploring the intersection of design practice and social science research.  She brings intuitive and empirically informed attention to the design of digital and physical environments, products, and brands. 
+Daniel N. Johnson is a visual artist and avid traveler, whose curiosity for experiencing new cultures and learning new languages has led him to 35+ countries with camera and notebook in tow. Johnson's travel experiences were initially funded by work as a freelance art director and animator for various ad agencies in New York City, telling stories for brands and non-profit campaigns. | Robin is a creative and analytical thinker. With background in psychology and cultural studies, she revels in the challenge of designing business solutions that create value in human terms. She has played strategic roles on founding teams for various social ventures, including Foundation for Sustainable Development, Impact Hub Bay Area, and the 5M Project. Robin received her MBA in Design Strategy from CCA | Caseysimone Cooper is an experience designer exploring the intersection of design practice and social science research.  She brings intuitive and empirically informed attention to the design of digital and physical environments, products, and brands. 
 
 
 #### Advisors ####
@@ -232,6 +231,10 @@ Mike has served as managing partner for four advertising and digital agencies, d
 #### Case Studies ####
 <!-- .slide: id="casestudies" -->
 
+<!-- .slide: data-background="/lib/img/case-factory.jpg" class="narrow" -->
+### Factory ###
+##### Research / Production / Prototyping ######
+Factory is a private innovation lab in San Francisco. Based in a modernized historic Victorian mansion, Factory brings together leading brands with top innovators (designers, engineers, artists, strategists and researchers) for 2-day intensive prototyping workshops (Immersions). Factory’s immersions are led by Mike Parsons and Tom Chi, former Head of Experience at Google X, the Google skunkworks lab responsible for Google Glass and Self-Driving Cars. As Factory's chief design partner, Metapattern provides experience design, production and rapid prototyping services for all Factory Immersions. In collaboration with Factory, we have worked with leading brands including Nike, GE, Monster, and Sol Republic.
 
 
 <!-- .slide: data-background="/lib/img/case-ahr.jpg" class="narrow" -->
@@ -269,12 +272,6 @@ Founded by 3 young mechanical engineers from MIT, [Rest](http://www.restdevices.
 Rest (then 'Nyx') approached Metapattern to develop their naming, visual identity and digital marketing. Today their focused on developing an innovative line of baby monitors, while their sleep apnea detection systems awaits FDA approval.
 
 
-<!-- .slide: data-background="/lib/img/case-factory.jpg" class="narrow" -->
-### Factory ###
-##### Research / Production / Prototyping ######
-Factory is a private innovation lab in San Francisco. Based in a modernized historic Victorian mansion, Factory brings together leading brands with top innovators (designers, engineers, artists, strategists and researchers) for 2-day intensive prototyping workshops (Immersions). Factory’s immersions are led by Mike Parsons and Tom Chi, former Head of Experience at Google X, the Google skunkworks lab responsible for Google Glass and Self-Driving Cars. As Factory's chief design partner, Metapattern provides experience design, production and rapid prototyping services for all Factory Immersions. In collaboration with Factory, we have worked with leading brands including Nike, GE, Monster, and Sol Republic.
-
-
 <!-- .slide: data-background="/lib/img/case-domino.jpg" class="narrow" -->
 ### Domino ###
 ##### Prototyping / Development / Design ######
@@ -294,6 +291,5 @@ Their crowdfunding campaign successfully raised $482,000 and was backed by Y Com
 
 
 
-#### Thank you. ####
-<!-- .slide: data-background-video="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" data-background-color="#000000" -->
-
+#### Thank you ####
+<!-- .slide: data-background="/lib/img/thanks.jpg" class="white" -->

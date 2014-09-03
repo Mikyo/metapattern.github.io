@@ -97,6 +97,7 @@ img.display {
 		bottom: 0;
 		left: 0;
 		margin: 0 auto;
+		z-index: 100;
 
 		div {
 			border: 10px solid transparent;
@@ -135,6 +136,14 @@ img.display {
 		line-height: 1.6em;
 		margin: 0 auto 1em;
 		max-width: 35em;
+	}
+
+	strong {
+		font-weight: bold;
+	}
+
+	em {
+		font-style: italic;
 	}
 
 	blockquote p {

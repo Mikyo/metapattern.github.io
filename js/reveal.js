@@ -35,14 +35,14 @@
 
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
-			width: 960,
-			height: 700,
+			width: 1280,
+			height: 720,
 
 			// Factor of the display size that should remain empty around the content
 			margin: 0.1,
 
 			// Bounds for smallest/largest possible scale to apply to content
-			minScale: 0.2,
+			minScale: 0.8,
 			maxScale: 1.0,
 
 			// Display controls in the bottom right corner
@@ -122,7 +122,7 @@
 			focusBodyOnPageVisibilityChange: true,
 
 			// Theme (see /css/theme)
-			theme: null,
+			theme: 'Meta',
 
 			// Transition style
 			transition: 'default', // none/fade/slide/convex/concave/zoom
@@ -207,10 +207,10 @@
 
 		// Holds information about the keyboard shortcuts
 		keyboardShortcuts = {
-			'N  ,  SPACE':			'Next slide',
-			'P':					'Previous slide',
-			'&#8592;  ,  H':		'Navigate left',
-			'&#8594;  ,  L':		'Navigate right',
+			'N  ,  SPACE, &#8594;':	'Next slide',
+			'P, &#8592;':			'Previous slide',
+			'H':		'Navigate left',
+			'L':		'Navigate right',
 			'&#8593;  ,  K':		'Navigate up',
 			'&#8595;  ,  J':		'Navigate down',
 			'Home':					'First slide',
@@ -3443,13 +3443,13 @@
 
 			switch( event.keyCode ) {
 				// p, page up
-				case 80: case 33: navigatePrev(); break;
+				case 80: case 33: case 37: navigatePrev(); break;
 				// n, page down
-				case 78: case 34: navigateNext(); break;
+				case 78: case 34: case 39: navigateNext(); break;
 				// h, left
-				case 72: case 37: navigateLeft(); break;
+				// case 72: case 37: navigateLeft(); break;
 				// l, right
-				case 76: case 39: navigateRight(); break;
+				// case 76: case 39: navigateRight(); break;
 				// k, up
 				case 75: case 38: navigateUp(); break;
 				// j, down

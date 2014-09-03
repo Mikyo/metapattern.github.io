@@ -54,7 +54,8 @@ img.display {
   right: 0;
   bottom: 0;
   left: 0;
-  margin: 0 auto; }
+  margin: 0 auto;
+  z-index: 100; }
   .reveal .controls div {
     border: 10px solid transparent; }
   .reveal .controls div.navigate-right {
@@ -80,6 +81,10 @@ img.display {
   line-height: 1.6em;
   margin: 0 auto 1em;
   max-width: 35em; }
+.reveal strong {
+  font-weight: bold; }
+.reveal em {
+  font-style: italic; }
 .reveal blockquote p {
   margin: 0 auto; }
 .reveal ol {
