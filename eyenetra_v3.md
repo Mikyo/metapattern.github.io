@@ -69,11 +69,13 @@ We believe in you.
 
 >Define success, then work backwards. Within 18 months, Blink has been used by X people. Its viral coefficient is Y. People are reading about it in Z.
 
-#####Deliverable#####
+#####Deliverables#####
 
-||<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">||
----|---
 ||**Vision Board** | **Culture**||
+|---|---|---|---|
+||Lorem Ipsum | Lorem Ipsum||
+
+---
 
 #####Inputs#####
 Hopes & Dreams.
@@ -81,10 +83,13 @@ Hopes & Dreams.
 #####Output#####
 Success, Defined.
 
+---
+
 #####Budget#####
 *$10,000*
 
 
+<!-- .slide: class="wide" -->
 #### Phase 2 ####
 ### Discovery ###
 
@@ -94,13 +99,17 @@ Success, Defined.
 
 **Naming** | **Customers** | **Value Prop.** | **Channels** | **Price** | **Packaging** | **Experience**
 ---|---|---|---|---|---|---|---|---
-Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prioritized Benefits | Marketing & Distribution | Service Price, Add-Ons | Service Packages | 
+Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prioritized Benefits | Marketing & Distribution | Service Price, Add-Ons | Service Packages | Visioneer
+
+---
 
 #####Inputs#####
 Success, defined.
 
 #####Output#####
 Working Hypotheses (An array of strategic assumptions used as a starting point for prototyping)
+
+---
 
 #####Budget#####
 *$60,000*
@@ -117,11 +126,15 @@ Working Hypotheses (An array of strategic assumptions used as a starting point f
 ---|---|---
 How does Blink feel on paper? | When and where does Technology intervene? | How does Blink feel in person?
 
+---
+
 #####Inputs#####
 Hypothesis
 
 #####Output#####
 Working Prototype + Strategy + Blueprints
+
+---
 
 #####Budget#####
 *$100,000*
@@ -134,9 +147,8 @@ Working Prototype + Strategy + Blueprints
 
 #####Deliverables#####
 
-<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="40px" alt="">
+**Brand Experience** | **Digital Experience** | **Service Experience**
 ---|---|---
-Brand Experience | Digital Experience | Service Experience
 Language - Overall tone, phraseology, manifesto, copywriting (print + digital)  [ David Begler ]
 Photography - Lifestyle / Service Experience (in-home / out of home), Visioneer Portraits, Gear (goggles, tablet), Culture / Team [ Michael O’Neal ]
 Web Development - Mobile responsive marketing site  [ In House ]
@@ -209,12 +221,11 @@ Daniel N. Johnson is a visual artist and avid traveler, whose curiosity for expe
 
 #### Advisors ####
 
-<img src="/lib/img/icon-team-placeholder.svg" width="120px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="120px" alt="">
+<img src="/lib/img/team-assets/mike.png" width="120px" alt="" class="round">|<img src="/lib/img/team-assets/scott.png" width="120px" alt="" class="round">
 ---|---
 **Mike Parsons** | **Scott Kraft**
-*Marketing / Advertising*|*Marketing Strategy*
----|---
-Mike has served as managing partner for four advertising and digital agencies, during which time he worked on many large, award winning campaigns for clients such as Microsoft, Xbox, Coca Cola Company, HP, General Motors and Volkswagen.| Scott Kraft serves as Chief Executive Officer of Kraft Consultants and helps clients optimize their marketing investments and create lasting business value. Mr. Kraft served as an Executive Vice President of Marketing of Six Apart Ltd. He has over 20 years experience developing strategies and campaigns for leading brands such as Vodafone, Citigroup, Viacom, Nike, General Electric, NewsCorp, IAC, Microsoft, and SBC. He served as Global Vice President of Branding and Advertising at Sun Microsystems. He served as Principal in branding and strategic marketing consultancies of Nicholson NY and was its Executive Vice President of Interpublic agency. He created many groundbreaking marketing campaigns including an one of the world's most recognized integrated e-culture advertising campaign for IBM. He also served as Chief Executive Officer of Gadfly Inc. and Managing Partner of Sterling Group. He serves as Member of board of advisor at buySAFE, Inc. He served as Director of Buysafe Inc. Mr. Kraft is an award-winning expert in branding and marketing. His work has been awarded the top honors in the marketing and advertising industry, including the Cannes Lions Grand Prix, the Grand Clio, and the AdClub's Golden Pencil.
+*Marketing / Advertising* | *Marketing Strategy*
+Mike has served as managing partner for four advertising and digital agencies, during which time he worked on many large, award winning campaigns for clients such as Microsoft, Xbox, Coca Cola Company, HP, General Motors and Volkswagen.| Scott Kraft serves as Chief Executive Officer of Kraft Consultants and helps clients optimize their marketing investments and create lasting business value. Mr. Kraft served as an Executive Vice President of Marketing of Six Apart Ltd. He has over 20 years experience developing strategies and campaigns for leading brands such as Vodafone, Citigroup, Viacom, Nike, General Electric, NewsCorp, IAC, Microsoft, and SBC. He served as Global Vice President of Branding and Advertising at Sun Microsystems. His work has been awarded the top honors in the marketing and advertising industry, including the Cannes Lions Grand Prix, the Grand Clio, and the AdClub's Golden Pencil.
 
 
 

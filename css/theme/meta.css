@@ -111,6 +111,8 @@ img.display {
   letter-spacing: 0.6em !important;
   margin-bottom: 1em !important;
   margin-top: 2em !important; }
+.reveal hr {
+  width: 2em; }
 .reveal table {
   width: 100%;
   margin: auto;
