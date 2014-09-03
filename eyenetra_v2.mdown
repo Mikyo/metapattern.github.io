@@ -57,12 +57,13 @@ We're here to help.
 *Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eyecare that seamlessly connects thousands of Visioneers in the field worldwide to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
 
 
+
 ## We are Metapattern. ##
 <!-- .slide: id="about" -->
 
-Metapattern is a design and innovation studio based in San Francisco, focused on launching purposeful new brands, products and experiences.
+Metapattern is a design and innovation lab based in San Francisco, focused on launching purposeful new brands, products and experiences.
 
-We believe agile teams making fast and frequent iterations lead to stronger products and greater alignment with reality. We believe in the future every business is a digital business, every friction an opportunity, every customer an evangelist. We believe in simplicity.
+We believe collaborative teams making fast and frequent iterations lead to stronger products and greater alignment with reality. We believe in the future every business is a digital business, every friction an opportunity, every customer an evangelist. We believe in simplicity.
 
 We believe in you.
 
