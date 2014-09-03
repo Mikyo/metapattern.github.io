@@ -1,7 +1,7 @@
 # Blink #
 ##### Identity & Experience #####
 
-*An interactive proposal by Metapattern*
+*An proposal by Metapattern*
 
 
 
@@ -63,6 +63,7 @@ We believe in you.
 #### Our Process ####
 
 
+<!-- .slide: class="wide" -->
 ### Phase 1 / Vision ###
 
 >Define success, then work backwards. Within 18 months, Blink has been used by X people. Its viral coefficient is Y. People are reading about it in Z.
@@ -75,11 +76,9 @@ We believe in you.
 
 ---
 
-#####Inputs#####
-Hopes & Dreams.
+**Input**: All work to date.
 
-#####Output#####
-Definition of Success
+**Output**: Definition of success. 
 
 ---
 
@@ -100,11 +99,9 @@ Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prior
 
 ---
 
-#####Inputs#####
-Definition of Success
+**Input**: Definition of Success
 
-#####Output#####
-Working Hypotheses (An array of strategic assumptions used as a starting point for prototyping)
+**Output**: Working Hypotheses (An array of strategic assumptions used as a starting point for prototyping). 
 
 ---
 
@@ -112,6 +109,7 @@ Working Hypotheses (An array of strategic assumptions used as a starting point f
 *$60,000*
 
 
+<!-- .slide: class="wide" -->
 ### Phase 3 / Prototyping ###
 
 > We begin with 1 day cycles. Morning: Kickoff. Afternoon: Build. Evening: Test. Once we refine our hypotheses, we gradually increase fidelity. One day becomes three days. More complexity. More testing. In the final weeks, we harness all of our learning into full, 1-week sprints. At the end, we have a clear strategy and tested, high fidelity prototype ready for production.
@@ -120,15 +118,12 @@ Working Hypotheses (An array of strategic assumptions used as a starting point f
 
 **Brand Experience** | **Digital Experience** | **Service Experience**
 ---|---|---
-How does Blink feel on paper? | When and where does Technology intervene? | How does Blink feel in person?
-
+Lorem Ipsum | Lorem Ipsum | Lorem Ipsum
 ---
 
-#####Inputs#####
-Hypothesis
+**Inputs**: Working Prototype + Strategy + Blueprints
 
-#####Output#####
-Working Prototype + Strategy + Blueprints
+**Output**: A complete, beautiful branded service. 
 
 ---
 
@@ -136,34 +131,31 @@ Working Prototype + Strategy + Blueprints
 *$100,000*
 
 
+<!-- .slide: class="wide" -->
 ### Phase 4 / Production ###
 
 > Once our strategy has been validated through empirical field testing, it's time to build. We'll assemble a crack team of creative technologists, artists and filmmakers to bring Blink to life. Metapattern will lead overall creative direction and manage day-to-day operations with our collaborators.
 
 #####Deliverables#####
 
-**Brand Experience** | **Digital Experience** | **Service Experience**
----|---|---
+**Language** | **Photography** | **Web Development** | **Brand Identity** | **Launch Video** | **App Store**
+---|---|---|---|---|---
+Overall tone, phraseology, manifesto, copywriting (print + digital) | Lifestyle / Service Experience (in-home / out of home), Visioneer Portraits, Gear (goggles, tablet), Culture / Team | Mobile responsive marketing site | Logo, Tagline, Color, Typography, Illustration | 90 second explainer. Dead simple. Premium & contemporary scripted storytelling. |  Clickable prototype for onboarding, scheduling, locator, prescription management, billing & e-commerce
+
+---
+
+**Inputs**: Working Prototype + Strategy + Blueprints
+
+**Output**: A complete, beautiful branded service. 
+
+---
+
+#####Budget#####
+*TBD*
 
 
-#####Inputs#####
-Working Prototype + Strategy + Blueprints
 
-#####Output#####
-Success
-
-
-##### Timeline #####
-### Strategy ###
-<!-- .slide: data-transition="fade" id="process-strategy" class="wide" -->
-<img class="stretch" src="/lib/img/chart-process-05.svg" alt="">
-
-
-##### Timeline #####
-### Design ###
-<!-- .slide: data-transition="fade" id="process-design" class="wide" -->
-<img class="stretch" src="/lib/img/chart-process-06.svg" alt="">
-
+#### Our Team ####
 
 
 <img src="/lib/img/team-assets/carson.png" width="120px" alt="" class="round">
@@ -215,12 +207,13 @@ Daniel N. Johnson is a visual artist and avid traveler, whose curiosity for expe
 ---|---
 **Mike Parsons** | **Scott Kraft**
 *Marketing / Advertising* | *Marketing Strategy*
-Mike has served as managing partner for four advertising and digital agencies, during which time he worked on many large, award winning campaigns for clients such as Microsoft, Xbox, Coca Cola Company, HP, General Motors and Volkswagen.| Scott Kraft serves as Chief Executive Officer of Kraft Consultants and helps clients optimize their marketing investments and create lasting business value. Mr. Kraft served as an Executive Vice President of Marketing of Six Apart Ltd. He has over 20 years experience developing strategies and campaigns for leading brands such as Vodafone, Citigroup, Viacom, Nike, General Electric, NewsCorp, IAC, Microsoft, and SBC. He served as Global Vice President of Branding and Advertising at Sun Microsystems. His work has been awarded the top honors in the marketing and advertising industry, including the Cannes Lions Grand Prix, the Grand Clio, and the AdClub's Golden Pencil.
+Mike is a seasoned leader in marketing and technology. He has won many advertising awards including the Cannes Lions International and was recruited to America to launch the advertising for Microsoft’s Xbox. The launch of the Xbox Kinect made the Guinness Book of Records and was awarded an Effie for it’s effectivity. Currently, Mike works at FACTORY creating new products for companies such as Nike, GE and P&G. He also founded LaunchPodium Inc, an online marketing service. Mike has lived in Sydney, Amsterdam and London and now happily lives in San Francisco.| Scott Kraft is a veteran marketing executive with over 20 years experience developing strategies and campaigns for leading brands such as Vodafone, Citigroup, Viacom, Nike, General Electric, NewsCorp, IAC, Microsoft, and SBC. He served as Global Vice President of Branding and Advertising at Sun Microsystems. His work has been awarded the top honors in the marketing and advertising industry, including the Cannes Lions Grand Prix, the Grand Clio, and the AdClub's Golden Pencil.
 
 
 
 #### Case Studies ####
 <!-- .slide: id="casestudies" -->
+
 
 <!-- .slide: data-background="/lib/img/case-factory.jpg" class="narrow" -->
 ### Factory ###

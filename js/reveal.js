@@ -36,7 +36,7 @@
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
 			width: 1280,
-			height: 720,
+			height: 700,
 
 			// Factor of the display size that should remain empty around the content
 			margin: 0.1,
@@ -539,7 +539,7 @@
 
 				// Position the slide inside of the page
 				slide.style.left = left + 'px';
-				slide.style.top = top + 'px';
+				slide.style.top = top - 80 + 'px';
 				slide.style.width = slideWidth + 'px';
 
 				// TODO Backgrounds need to be multiplied when the slide
