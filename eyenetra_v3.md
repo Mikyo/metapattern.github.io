@@ -150,8 +150,7 @@ Overall tone, phraseology, manifesto, copywriting (print + digital) | Lifestyle 
 
 ---
 
-#####Budget#####
-*TBD*
+##### Budget is TBD #####
 
 
 
@@ -183,7 +182,7 @@ With an MBA in Design Strategy and over 10 years teaching and practicing yoga, h
 ##### Operations #####
 Lion Isis is a transmedia producer, strategist, and entrepreneur.
 
-Lion has managed interdisciplinary creative teams for the last 8 years across design, film, and product development, both on the agency and brand side. In 2012, Lion joined Soma Water, a consumer product start-up, as Chief of Staff where he helped raise over $4mm in investment. Inc. Magazine declared Soma as one of the most “Audacious Companies of 2013” alongside Redbull and Square. Lion is a long time student of the lean startup methodology, having managed nearly a dozen Agile teams across continents to build innovative new brands and consumer focused products.
+Lion has managed interdisciplinary creative teams for the last 8 years across design, film, and product development, both on the agency and brand side. In 2012, Lion joined Soma Water, a consumer product start-up, as Chief of Staff where he helped raise over $4mm in investment. Inc. Magazine declared Soma as one of the *Most Audacious Companies of 2013* alongside Redbull and Square. Lion is a long time student of the lean startup methodology, having managed nearly a dozen Agile teams across continents to build innovative new brands and consumer focused products.
 
 
 <img src="/lib/img/team-assets/marwan.png" width="120px" alt="" class="round">
@@ -259,8 +258,9 @@ Rest (then 'Nyx') approached Metapattern to develop their naming, visual identit
 <!-- .slide: data-background="/lib/img/case-domino.jpg" class="narrow" -->
 ### Domino ###
 ##### Prototyping / Development / Design ######
-Founded by Tom Dinwoodie, serial entrepreneur and expert on renewable energy, Domino is launching a digital platform in conjunction with an “An Inconvenient Truth” scale feature documentary to present solutions to climate change. 
-Metapattern was responsible for the design and development of the entire digital platform. Three times a week we worked with a production team around the world to design, build, and cafe prototype in cities across China, Europe, and the US. We built over 50 iterations and talked to hundreds of people in the process of delivering native mobile and responsive web applications.
+Founded by Tom Dinwoodie, serial entrepreneur and expert on renewable energy, Domino is launching a digital platform in conjunction with a high-end feature documentary film (think *An Inconvenient Truth*) presenting emerging solutions to climate change. The film is in production now and directed by Academy Award-winning director Charles Ferguson (*Inside Job*).
+
+Metapattern was responsible for the design and user experience of the entire digital platform, including mobile and desktop apps. Three times a week we worked with a production team around the world to design, build, and cafe prototype in cities across China, Europe, and the US. We built over 50 iterations and talked to hundreds of people in the process of delivering native mobile and responsive web applications.
 
 
 <!-- .slide: data-background="/lib/img/case-immunity.jpg" class="narrow" -->
