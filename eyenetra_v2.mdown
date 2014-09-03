@@ -38,7 +38,7 @@ We're here to help.
 
 <img src="/lib/img/timeline-past.svg" width="60%" />
 
-*Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eyecare that seamlessly connects thousands of Visioneers in the field worldwide to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
+*From its birth in ancient China, to its development during the Italian renaissance, to its growth as a modern medical industry, vision care *
 
 
 ### The Present ###
@@ -46,7 +46,7 @@ We're here to help.
 
 <img src="/lib/img/timeline-present.svg" width="60%" />
 
-*While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process.  2.4 Billion people*
+*While technology has developed since its inception, vision testing is still a slow, cumbersome and expensive process. People *
 
 
 ### The Future ###
@@ -57,13 +57,14 @@ We're here to help.
 *Emerging out of the MIT Media Lab, EyeNetra develops low-cost networked eye exam. In 2015 they launch Blink, a true revolution in eyecare that seamlessly connects thousands of Visioneers in the field worldwide to a team of optometrists for remote diagnosis and prescription. From Denver to Denmark to Denpasar, millions of people finally gain access to world-class eye care through a delightfully simple local service.*
 
 
-
-## We are metapattern. ##
+## We are Metapattern. ##
 <!-- .slide: id="about" -->
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur aliquam itaque ea explicabo eum corporis, vel quas ex totam quo sequi, soluta eveniet rerum, quis quisquam aperiam!
+Metapattern is a design and innovation studio based in San Francisco, focused on launching purposeful new brands, products and experiences.
 
-A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto facere quaerat earum nisi sed vero aperiam quia odio saepe molestias cupiditate possimus sit, dolores velit veritatis. Tempora dolorem possimus iure est ipsa quaerat!
+We believe agile teams making fast and frequent iterations lead to stronger products and greater alignment with reality. We believe in the future every business is a digital business, every friction an opportunity, every customer an evangelist. We believe in simplicity.
+
+We believe in you.
 
 
 ##### Process #####
@@ -80,65 +81,59 @@ A, corporis debitis voluptatibus exercitationem est culpa, inventore architecto 
 
 
 <!-- .slide: id="team" class="wide" -->
-<img src="/lib/img/team-assets/carson.png" width="200px" alt="" class="round">
+<img src="/lib/img/team-assets/carson.png" width="120px" alt="" class="round">
 ### Carson Linforth Bowley ###
-##### Creative Synthesis #####
+##### Creative Direction #####
 Carson leads the Metapattern team as Creative Director, working to synthesize the constituent disciplines into a compelling and coherent whole. Having worked as a self-taught graphic and interactive designer for almost 15 years, his projects have transcended mediums including identity, interactive and experience design.
 
-Before founding Metapattern in 2012, he apprenticed with Michael Ventura, CEO / CCO of the experience design agency Sub Rosa, and prior spent six years at Sony Pictures, leading design and product development of their nascent mobile and web ventures.
+Before founding Metapattern in 2012, he apprenticed with Michael Ventura, CEO / CCO of the experience design agency Sub Rosa after attempting to launch an innovation colony in Los Cabos Mexico and spending six years at Sony Pictures, leading design and product development of their nascent mobile and web ventures.
 
 
-<img src="/lib/img/team-assets/monica.png" width="200px" alt="" class="round">
-### Monica Laurence ###
-##### Brand Strategy #####
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
-
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
-
-
-<img src="/lib/img/team-assets/jesse.png" width="200px" alt="" class="round">
+<img src="/lib/img/team-assets/jesse.png" width="120px" alt="" class="round">
 ### Jesse Lawson ###
 ##### Brand Strategy #####
-Jesse is a partner in Amorphous, a brand and innovation consultancy, helping businesses invent new and more effective forms of marketing—from apps to content, spaces, events, games, partnerships, and more. Clients include Nike, Xbox, Activision, Puma, Diageo, LINE, Lenovo, P&G, Droga5, Wieden + Kennedy, BBH, twofifteenmccann, FACTORY, Silver + Partners and Saatchi & Saatchi.
-
-Previously, Jesse was a planning director at twofifteenmccann in San Francisco, and held senior level strategy positions at Euro RSCG New York and digital agency Velocity. During this time, he led planning for Microsoft, Coca-Cola, Jaguar, HP, TOMS Shoes, Annie's, Wired, GM, Kraft, Reckitt Benckiser and AirFrance, among others.
+Jesse is a marketing strategist with 12 years of experience, including strong background building new technology and cause driven brands. Currently, he is a Partner in [Amorphous](www.weareamorphous.com), a brand and innovation consultancy where he has worked with clients such as Nike, Xbox, Activision, Lenovo, LINE messenger and P&G. Previously, Jesse was a Planning Director at twofifteenmccann, the agency of record for Xbox. During this time, he led strategy for Microsoft, Coca-Cola and TOMS Shoes. Jesse has additionally held senior roles Havas Worldwide and digital agency Velocity, for clients Jaguar, Kraft, Reckitt Benckiser, AOL, GM and Wired. He holds an MBA degree from the Richard Ivey School of Business at Western University, a top international business school.
 
 
-<img src="/lib/img/team-assets/mari.png" width="200px" alt="" class="round">
+<img src="/lib/img/team-assets/monica.png" width="120px" alt="" class="round">
+### Monica Laurence ###
+##### Brand Strategy #####
+Monica Laurence combines entertainment, technology and marketing to shape the identities of her clients and share them with the world. She believes that every individual, organization and place has a purpose and a unique contribution to make, and framed well, their stories can inspire each of us to rise to our fullest potential. Monica is attracted to game-changing disruption, working with innovative global firms and Silicon Valley start-ups to craft brand and identity, establish positioning and key messages, and define their strategies, business models, and marketing initiatives that yield success.
+
+ Monica has held CEO and CMO positions with entertainment, hospitality and social media start-ups. She managed corporate development and strategic planning at Lucasfilm, worked in motion picture marketing for Disney, drove sales and marketing for private island resort Turtle Island, and ran Tiny Planets, an award-winning children’s TV series and portal of online games in London. Monica holds a BS in Computer Science from Bucknell University and an MBA in Strategy and Entertainment from UCLA.
+
+
+<img src="/lib/img/team-assets/mari.png" width="120px" alt="" class="round">
 ### Maricarmen Sierra ###
 ##### Experience Design #####
-With an MBA in Design Strategy and over 9 years teaching and practicing yoga, Maricarmens' work blends the lines between cultural anthropology, creative direction and innovation strategy. She has worked with agents of cultural change in both cities, including city governments, revolutionary artists, tech startups and design consultancies. 
+With an MBA in Design Strategy and over 10 years teaching and practicing yoga, her work blends the lines between cultural anthropology, creative direction and innovation strategy. She has worked with agents of cultural change in both cities, including city governments, revolutionary artists, tech startups and design consultancies. She is deeply interested in connecting the subtlety of the senses and human behavior with our understanding of complex cultural and economic systems to expand our evolving sense of humanity in the emerging digital era. She splits her time between two companies: As the co-founder of Metapattern, an emergent design studio, she leads collaborative design sessions in the edge of humanistic futurism. As the founder of Memetica, she privately coaches and leads workshops in yoga, mindfulness and creative expression for companies and leading innovators.
 
-She's deeply interested in connecting the subtlety of the senses and human behavior with our understanding of complex cultural and economic systems to expand our evolving sense of humanity in the emerging digital era.
+See more of her facilitating approach [here](http://www.marisierra.com/presenceyoga/) and record of experience design projects [here](http://www.marisierra.com/experiences/). 
 
 
-<img src="/lib/img/team-assets/lion.png" width="200px" alt="" class="round">
+<img src="/lib/img/team-assets/lion.png" width="120px" alt="" class="round">
 ### Lion Isis ###
 ##### Operations #####
 Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
 
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
 
-
-<img src="/lib/img/team-assets/marwan.png" width="200px" alt="" class="round">
+<img src="/lib/img/team-assets/marwan.png" width="120px" alt="" class="round">
 ### Marwan Hilmi ###
 ##### Technology #####
-Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
-
 Lorem ipsum Sed quis deserunt occaecat culpa tempor in esse pariatur consectetur ad anim proident fugiat consectetur qui id mollit do esse laborum id non adipisicing anim sit qui amet amet magna cupidatat non magna adipisicing aliqua aute officia incididunt minim.
 
 
 <img src="/lib/img/team-assets/dan.png" width="150px" alt="" class="round">|<img src="/lib/img/team-assets/robin.png" width="150px" alt="" class="round">|<img src="/lib/img/team-assets/caseysimone.png" width="150px" alt="" class="round">
 ---|---|---
 **Dan Johnson** | **Robin Waldroup** | **Caseysimone Cooper**
-*Photographer*|*Researcher*|*Intern*
+*Photographer*|*Researcher*|*Research Assistant*
 ---|---|---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.
+Daniel N. Johnson is a visual artist and avid traveler, whose curiosity for experiencing new cultures and learning new languages has led him to 35+ countries with camera and notebook in tow. Johnson's travel experiences were initially funded by work as a freelance art director and animator for various ad agencies in New York City, telling stories for brands and non-profit campaigns. | Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque temporibus id eligendi accusamus optio enim unde laboriosam quod natus quam.| Caseysimone Cooper is an experience designer exploring the intersection of design practice and social science research.  She brings intuitive and empirically informed attention to the design of digital and physical environments, products, and brands. 
 
 
 #### Advisors ####
 
-<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="200px" alt="">
+<img src="/lib/img/icon-team-placeholder.svg" width="120px" alt="">|<img src="/lib/img/icon-team-placeholder.svg" width="120px" alt="">
 ---|---
 **Mike Parsons** | **Scott Kraft**
 *Marketing / Advertising*|*Marketing Strategy*
@@ -205,4 +200,4 @@ Their crowdfunding campaign successfully raised $482,000 and was backed by Y Com
 
 
 #### Thank you. ####
-<!-- .slide: data-background="/lib/img/stones.jpg" -->
+<!-- .slide: data-background-video="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" data-background-color="#000000" -->
