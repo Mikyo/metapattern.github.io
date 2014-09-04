@@ -151,9 +151,9 @@ Explore identity systems, signage & stationary | Explore how and when technology
 <!-- .slide: class="wide" -->
 ### Phase 4 / Production ###
 
-*6-8 weeks*
+*(6-8 weeks)*
 
-> Once our strategy has been validated through empirical field testing, it's time to build. We'll assemble a crack team of creative technologists, artists and filmmakers to bring Blink to life. Metapattern will lead overall creative direction and manage day-to-day operations with our collaborators.
+>Once our strategy has been validated through empirical field testing, it's time to build. We'll assemble a crack team of creative technologists, artists and filmmakers to bring Blink to life. Metapattern will lead overall creative direction and manage day-to-day operations with our collaborators. 
 
 ---
 
@@ -165,9 +165,7 @@ Overall tone, phraseology, manifesto, copywriting (print + digital) | Lifestyle 
 
 ---
 
-**Inputs**: Working Prototype + Strategy + Blueprints
-
-**Output**: A complete, beautiful branded service. 
+**Inputs**: Working Prototype + Strategy + Blueprints  /  **Output**: A complete, beautiful branded service. 
 
 ---
 
