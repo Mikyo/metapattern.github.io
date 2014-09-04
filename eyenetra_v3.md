@@ -68,9 +68,13 @@ We believe in you.
 <!-- .slide: class="wide" -->
 ### Phase 1 / Vision ###
 
-*1 week*
+*(1 week)*
 
 >Before we can begin, we must define a north star. 18 months from launch, how many people will have heard of us? How many will we have treated? What magazines will talk about us? What cities will we launch in?
+
+---
+
+**Input**: All work to date.  /  **Output**: Definition of success. 
 
 ---
 
@@ -82,12 +86,6 @@ We believe in you.
 
 ---
 
-**Input**: All work to date.
-
-**Output**: Definition of success. 
-
----
-
 #####Budget#####
 *$10,000*
 
@@ -95,25 +93,20 @@ We believe in you.
 <!-- .slide: class="wide" -->
 ### Phase 2 / Discovery ###
 
-*6 weeks*
+*(6 weeks)*
 
 > Tune into our entrepreneurial intuition. Discover our options before building anything substantial. Explore all possible customer segments, channels and experiences. What is the company culture? Which value propositions are most compelling? In what order?
 
 ---
 
-#####Deliverables#####
+**Input**: Definition of Success  /  **Output**: Working Hypotheses (An array of strategic assumptions used as a starting point for prototyping). 
 
 ---
+#####Deliverables#####
 
 **Naming** | **Customers** | **Value Prop.** | **Channels** | **Price** | **Packaging** | **Experience**
 ---|---|---|---|---|---|---|---|---
 Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prioritized Benefits | Marketing & Distribution | Service Price, Add-Ons | Service Packages | Visioneer Personality & Presentation, Station Design
-
----
-
-**Input**: Definition of Success
-
-**Output**: Working Hypotheses (An array of strategic assumptions used as a starting point for prototyping). 
 
 ---
 
@@ -124,9 +117,13 @@ Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prior
 <!-- .slide: class="wide" -->
 ### Phase 3 / Prototyping ###
 
-*6-8 weeks*
+*(6-8 weeks)*
 
 > We begin with 1 day cycles. Morning: Kickoff. Afternoon: Build. Evening: Test. Once we refine our hypotheses, we gradually increase fidelity. One day becomes three days. More complexity. More testing. In the final weeks, we harness all of our learning into full, 1-week sprints. At the end, we have a clear strategy and tested, high fidelity prototype ready for production.
+
+---
+
+**Inputs**: Working Prototype + Strategy + Blueprints  /  **Output**: A complete, beautiful branded service. 
 
 ---
 
@@ -135,12 +132,6 @@ Service Name, Tagline & Key Features | Archetypes, Demographics, Desires | Prior
 **Brand Experience** | **Digital Experience** | **Service Experience**
 ---|---|---
 Explore identity systems, signage & stationary | Explore how and when technology intervenes during onboarding, testing and follow-up. (desktop + mobile) | Including Visioneer (demographic, costume, language, personality), Service Flow, Ritual (like the Lyft fist bump) 
-
----
-
-**Inputs**: Working Prototype + Strategy + Blueprints
-
-**Output**: A complete, beautiful branded service. 
 
 ---
 
@@ -157,15 +148,15 @@ Explore identity systems, signage & stationary | Explore how and when technology
 
 ---
 
+**Inputs**: Working Prototype + Strategy + Blueprints  /  **Output**: A complete, beautiful branded service. 
+
+---
+
 #####Deliverables#####
 
 **Language** | **Photography** | **Web Development** | **Brand Identity** | **Launch Video** | **App Store**
 ---|---|---|---|---|---
 Overall tone, phraseology, manifesto, copywriting (print + digital) | Lifestyle / Service Experience (in-home / out of home), Visioneer Portraits, Gear (goggles, tablet), Culture / Team | Mobile responsive marketing site | Logo, Tagline, Color, Typography, Illustration | 90 second explainer. Dead simple. Premium & contemporary scripted storytelling. |  Clickable prototype for onboarding, scheduling, locator, prescription management, billing & e-commerce
-
----
-
-**Inputs**: Working Prototype + Strategy + Blueprints  /  **Output**: A complete, beautiful branded service. 
 
 ---
 
@@ -247,6 +238,8 @@ Metapattern worked with [A Human Right](http://www.ahumanright.org), a globally-
 
 With the aid of our identity and storytelling design, A Human Right's founder Kosta Grammatis (a Media Lab alumnus) was a finalist for last year's TED Prize, and the site has reached hundreds of thousands of visitors.
 
+[Visit the site](http://www.ahumanright.org)
+
 
 <!-- .slide: data-background="/lib/img/case-eo.jpg" class="narrow" -->
 ### Essential Oxygen ###
@@ -254,6 +247,8 @@ With the aid of our identity and storytelling design, A Human Right's founder Ko
 EssentialOxygen is dedicated to making the cleanest and most effective oral health products possible. While most oral care products contain chemicals like flouride and sodium laurel sulfate which are proving counterproductive to oral health, EssentialOxygen's unique formulations use only food-grade hydrogen peroxide and organic essential oils.
 
 EssentialOxygen approached Metapattern to establish their brand identity, including visual design, digital marketing and packaging design. When we began working together, EssentialOxygen was printing labels at home and selling from a farmers market. Today, their products are in over 2,500 stores nationwide, including every Whole Foods, with annual sales over $1 million. 
+
+[Visit the site](http://www.essentialoxygen.com)
 
 
 <!-- .slide: data-background="/lib/img/case-advance.jpg" class="narrow" -->
@@ -273,6 +268,8 @@ Founded by 3 young mechanical engineers from MIT, [Rest](http://www.restdevices.
 
 Rest (then 'Nyx') approached Metapattern to develop their naming, visual identity and digital marketing. Today their focused on developing an innovative line of baby monitors, while their sleep apnea detection systems awaits FDA approval.
 
+[Visit the site](http://www.restdevices.com)
+
 
 <!-- .slide: data-background="/lib/img/case-domino.jpg" class="narrow" -->
 ### Domino ###
@@ -291,6 +288,8 @@ The Immunity Project is developing a revolutionary vaccine against HIV, using ma
 We guided the entire team through a series of design workshops, discovery and ideation sessions to identify the essence of the brand, the core values and the visual imagery needed to represent with clarity and accuracy the essence of Immunity Project's vision.
 
 Their crowdfunding campaign successfully raised $482,000 and was backed by Y Combinator and Microsoft Research. Today, they are working towards human clinical trials in 2015.
+
+[Visit the site](http://www.immunityproject.com)
 
 
 
