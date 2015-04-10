@@ -1,4 +1,4 @@
-## Blink ##
+## Remedy ##
 ##### Experience & Identity #####
 
 *A proposal by Metapattern*
@@ -12,7 +12,7 @@
 
 *This proposal was crafted to articulate our understanding of your project,
 and share our approach, philosophy and a selection of our work. Consider it a point of departure.*
-<!-- .slide: data-background="/lib/img/eye.jpg" -->
+<!-- .slide: data-background="lib/img/eye.jpg" -->
 
 
 
@@ -21,7 +21,7 @@ and share our approach, philosophy and a selection of our work. Consider it a po
 After years of brilliant research and development, it's show time.  EyeNetra has the potential to change how the world sees in a real and massive way. What Über did for mobility, EyeNetra will do for vision.
 
 You've won awards, wowed TED, 
-<!-- .slide: data-background="/lib/img/splat.jpg" -->
+<!-- .slide: data-background="lib/img/splat.jpg" -->
 
 
 
