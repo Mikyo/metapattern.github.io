@@ -1,0 +1,243 @@
+/**
+ * A simple theme for reveal.js presentations, similar
+ * to the default theme. The accent color is brown.
+ *
+ * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+
+// Override theme settings (see ../template/settings.scss)
+$mainFont: 'Adobe Garamond Pro', 'Book Antiqua', Palatino, FreeSerif, serif;
+$mainColor: #030303;
+$headingFont: 'Adobe Garamond Pro', 'Book Antiqua', Palatino, FreeSerif, serif;
+$headingColor: #383D3D;
+$headingTextShadow: none;
+$headingTextTransform: none;
+$backgroundColor: #F8F8F8;
+$linkColor: #9B9793;
+$linkColorHover: lighten( $linkColor, 20% );
+$selectionBackgroundColor: #CCC;
+
+img.round {
+	border-radius: 50em;
+}
+
+img.display {
+	margin-top: -10em;
+}
+
+.lowbar {
+
+	position: fixed;
+	bottom: 0.5em;
+	width: 100%;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	text-align: center;
+	z-index: 100;
+
+	.logo {
+		width: 2em;
+		bottom: 1.6em;
+	}
+
+	.footnote {
+		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham !important;
+		text-transform: uppercase !important;
+		letter-spacing: 0.4em;
+		font-weight: 400;
+		font-size: 0.25em;
+		letter-spacing: 0.3em;
+		position: fixed;
+		top: 2em;
+		color: $linkColor;
+
+		&.left {
+			left: 2em;
+			text-align: left;
+		}
+
+		&.right {
+			right: 2em;
+			text-align: right;
+		}
+
+	}
+}
+
+.reveal a:not(.image) {
+  line-height: 1.3em;
+}
+
+.reveal {
+
+	img.logo.welcome {
+		border-bottom: 1px solid rgba(0,0,0,0.3);
+		padding: 0 0 2em;
+		margin: 0 0 1em;
+	}
+
+	.progress {
+		top: auto;
+		bottom: 0;
+		height: 6px;
+
+	}
+
+	.controls {
+		right: 0;
+		bottom: 0;
+		left: 0;
+		margin: 0 auto;
+		z-index: 100;
+
+		div {
+			border: 10px solid transparent;
+		}
+
+			div.navigate-right {
+				left: 184px;
+				top: 35px;
+				border-left-width: 10px;
+			}
+
+			div.navigate-left {
+				right: 184px;
+				top: 35px;
+				border-right-width: 10px;
+			}
+
+			div.navigate-up {
+				left: 45px;
+				top: -24px;
+				border-bottom-width: 10px;
+				display: none;
+			}
+
+			div.navigate-down {
+				left: 45px;
+				top: 93px;
+				border-top-width: 10px;
+				display: none;
+			}
+
+	}
+
+	p {
+		font-size: 0.6em;
+		line-height: 1.6em;
+		margin: 0 auto 1em;
+		max-width: 35em;
+	}
+
+	strong {
+		font-weight: bold;
+	}
+
+	em {
+		font-style: italic;
+	}
+
+	blockquote p {
+		margin: 0 auto;
+	}
+
+	ol {
+		list-style-type: lower-roman;
+	}
+
+	ol, ul {
+		font-size: 0.7em;
+		list-style-position: outside;
+	}
+
+	h1 {
+		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
+	}
+
+	h2 {
+		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
+		margin-bottom: 0.6em !important;
+	}
+
+	h3 {
+		margin-bottom: 0.6em !important;
+	}
+
+	h4 {
+		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham !important;
+		text-transform: uppercase !important;
+		letter-spacing: .6em;
+		font-weight: 500;
+		font-size: 0.7em;
+		letter-spacing: 0.6em !important;
+		margin-bottom: 1.2em !important;
+		// position: fixed;
+		// top: -120px;
+		// left: 0;
+		// right: 0;
+	}
+
+	h5 {
+
+		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham !important;
+		text-transform: uppercase !important;
+		letter-spacing: .6em;
+		font-weight: 400;
+		font-size: 0.4em;
+		letter-spacing: 0.6em !important;
+		margin-bottom: 1em !important;
+		margin-top: 2em !important;
+
+	}
+
+	hr {
+		width: 2em;
+	}
+
+	table {
+		
+		width: 100%;
+		margin: auto;
+		border-collapse: collapse;
+		border-spacing: 0;
+		font-size: 0.6em;
+
+		th, td {
+			text-align: center;
+			margin: 0;
+			padding: 0 1em;
+		}
+
+		td {
+			font-size: 0.9em;
+			line-height: 1.6em;
+		}
+	}
+
+	.wide p {
+		max-width: 100%;
+	}
+
+	.white, .white h3, .white h2, .white h4, .white h5 {
+		color: #FFF !important;
+	}
+
+	#welcome h3 {
+		color: white;
+	}
+
+}
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+				

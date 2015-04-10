@@ -1,0 +1,361 @@
+*This proposal was crafted to articulate our understanding of your project,
+and share our approach, philosophy and a selection of our work. Consider it a point of departure.*
+
+
+
+## Hello. ##
+
+After years of brilliant research and development, it's show time.  EyeNetra has the potential to change how the world sees in a real and massive way. What Uber did for mobility, EyeNetra will do for vision.
+
+You've won awards, wowed TED, 
+
+
+#### The Challenge #### 
+- Enter mainstream market (25,000 -> 25,000,000)
+- Create a remarkably simple, approachable service experience.
+- Present a consistent, intentional brand across digital, physical and experiential mediums.
+
+
+#### The Vision ####
+- *Better, faster cheaper.*
+- *Radical simplicity.*
+- *Delightful experience.*
+- *Effortless brilliance.*
+- *Memorable Personality.*
+
+
+
+#### Archetypes ####
+*The following are sketches of potential brand archetypes.*
+
+
+### The Healer ###
+- Health & Wellness
+- Earth / Heart / Flow
+- Maternal; 45 educated, loving earth goddess.
+- Feels like: Bed & Breakfast
+- Loving, comfortable, safe.
+
+
+### The Stoic ###
+- Simple, minimalist, direct, efficient.
+- Aether / Crown / Stillness
+- I gotta have more whitespace!
+- Feels like: Square + Apple + Aether
+
+
+### The Poet ###
+- What is it to see? Sight is precious. A meditation on seeing. Micro / Macro. Texture. Detail. Elegance.
+- Water / Throat / Lyrical
+- 30 year old artist / architect / poet.
+- Timeless / Curated / Luxury / Emotional
+- Feels like: Kinfolk + _____
+
+
+### The Populist ###
+- "You won't believe how fun and simple this is! Woo hoo!" Fun. Fresh. Bright. Hide complexity.
+- Fire / Sacral / Flow
+- 25 year old PR girl
+- Emphasize Social Element
+- Monoline, bright, illustrated, Moneal photography.
+- Democratic / Populist / About the people
+- Lab coats & cute hipsters in glasses.
+- Feels like: Square + One + Warby Parker
+
+
+### The Whiz Kid ###
+- The optometrist, reinvented.
+- Air / Brow / Staccato
+- Gee whiz. Emphasize the tech / object; Gear porn.
+- Emphasize medical / technology / future angle.
+- Data viz / illustration / 
+- 38 year old wunderkind doctor
+- Feels like: Google + 53 + Stanford Hospital + IBM
+- Organized / 'God's Eye View' visuals;
+
+
+
+#### Process ####
+*Our work is rooted in the philosophy of rapid prototyping.*
+
+- Field Research
+- Rapid Prototyping
+- Archetypes
+- Pattern Language - 
+
+
+
+#### Deliverables ####
+- Research
+- Service Identity 
+- Experience Design 
+- App Design
+- Marketing Website 
+- Manifesto Video 
+- Culture
+
+
+
+#### Case Studies ####
+
+
+
+### Immunity Project ##
+
+
+<!-- .slide: data-background="/lib/img/osawa.jpg" -->
+
+
+<!-- .slide: data-background="/lib/img/triptych.jpg" -->
+
+
+
+### A Human Right##
+Metapattern worked with A Human Right, a globally-focused NGO dedicated to connecting the 5 Billion humans currently living without internet access, to refine their brand identity and launch an immersive storytelling experience through a redesigned website. A series of visual vignettes to bring to life the true important of the internet: Political freedom (egypt), economic opportuntiy (Kenya), Disaster relief (Haiti), education (Afghanistan) and Global telemedicine.
+
+
+
+### Organizer ##
+Organizer (then Electionear) approached Metapattern to design a new visual identity and informational website to coincide with a rebranding and reveal at techcrunch Disrupt. organizer develops mobile apps to empower the field teams of political campaigns and advocacy organizations. We worked to distill organizer’s metapattern, imagined as the “third space” within a conversant pair.
+
+
+
+## - Unifi ##
+<!-- .slide: data-background="/lib/img/osawa.jpg" -->
+
+
+
+## - Rest ##
+Founded by 3 young mechanical engineers from MIT, Rest is a Boston-based biotechnology company aiming to disrupt the sleep diagnostic market with a radically more comfortable and efficient system for identifying respiratory disorders. Metapattern worked with rest to define their brand essence, build a strong visual identity, and launch a multi-screen digital presence.
+
+
+
+## - Factory X / Immersion ##
+
+
+
+## - Energy Future ##
+
+
+
+## - MIT Media Lab ##
+
+
+
+### Many Hopes ###
+Many Hopes is raising the generation of children who will lead with justice and fairness and defeat the causes of extreme poverty in Kenya. They approached Metapattern to reboot their visual identity, rebuild their online presence and redefine a strategy for effective storytelling via social media.
+
+
+
+#### Timeline / Phasing ####
+
+
+- **Phase 1**
+  -- Customer Archetypes (personas, behavior & expectations)
+  -- Design Audit
+
+
+- **Phase 2**
+  -- Service design
+
+
+- **Phase 3**
+  -- Brand / Marketing Strategy
+  -- Service Identity (name, logo, marketing, mobile)
+  -- Mobile UX Prototype
+  -- Mobile demo video
+  -- Marketing Site
+
+
+- **Phase X**
+  -- Additional web products
+
+
+
+#### Budget ####
+Item | Budget
+-----|-------
+Carson Linforth Bowley | Lion Isis | 
+Director | Executive Producer | Producer
+
+
+
+#### Team ####
+Name | Role
+-----|-------
+Carson | Creative Director
+Lion | Strategy & Management
+Robin | Design Research
+Dan Johnson | Photo & Film & Design
+Michael Chichi | IxDesign
+Fractal Labs | Development
+
+
+
+<video class="stretch" src="/lib/vid/texture.mp4" autoplay loop muted></video>
+
+
+
+##### 1 #####
+### Observe ###
+<!-- .slide: id="process-observe" -->
+What did the Greek stoics, Tibetan buddhists and American pragmatists have in common? They knew there was absolutely no substitute for direct experience. Through field observation of both EyeNetra exams and traditional eye screenings, our creative team will immerse their senses in the whole process of vision testing to develop a common experiential basis to design from.
+
+
+##### 2 #####
+### Inquire ###
+<!-- .slide: id="process-inquire" -->
+While direct observation offers unique depth, it's important to ground our local experience in a wider cultural field. We'll design and implement a broad customer survey, gauging emotions, opinions, fears and desires related to eyecare and the screening process. 
+
+
+##### 3 #####
+### Capture ###
+<!-- .slide: id="process-capture" -->
+* Photo / Film / 3D *
+
+
+##### 4 #####
+### Prototype ###
+
+*2 weeks*
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque iusto soluta, officia, repellendus fugiat quae suscipit nam sequi illum aliquam, aut praesentium mxaxime. Similique vel fuga nesciunt nulla cumque natus!
+<!-- .slide: id="process-prototype" -->
+
+
+##### 5 #####
+### Strategize ###
+<!-- .slide: id="process-prototype" -->
+
+
+##### 6 #####
+### Construct ###
+<!-- .slide: id="process-construct" -->
+
+
+##### 7 #####
+### Hustle ###
+<!-- .slide: id="process-hustle" -->
+
+
+
+#### Deliverables ####
+<!-- .slide: id="phases" class="wide" -->
+<img class="stretch" src="/lib/img/chart-timeline-01.svg" alt="">
+
+
+
+##### phase one #####
+### Design Research ###
+
+<table>
+  <tbody>
+      <tr>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+    </tr>
+    <tr>
+      <th>Design Audit</th>
+      <th>Customer Archetypes</th>
+      <th>Marketing Strategy</th>
+    </tr>
+    <tr>
+      <td>Lorem ipsum</td>
+      <td>right-aligned</td>
+      <td>$1600</td>  
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+##### phase two #####
+### Service Identity ###
+
+<table>
+  <tbody>
+      <tr>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+    </tr>
+    <tr>
+      <th>Logo + Tagline</th>
+      <th>Interactive Styleguide</th>
+      <th>Brand Strategy</th>
+      <th>Sample Applications</th>
+    </tr>
+    <tr>
+      <td>Lorem ipsum</td>
+      <td>right-aligned</td>
+      <td>$1600</td> 
+      <td>$1600</td>  
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item2</li>
+          <li>item2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+##### phase three #####
+### Digital Marketing ###
+
+<table>
+  <tbody>
+      <tr>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+      <td><img src="/lib/img/icon-deliverable-placeholder.svg"></td>
+    </tr>
+    <tr>
+      <th>Logomark + Tagline</th>
+      <th>Interactive Styleguide</th>
+      <th>Brand Strategy</th>
+      <th>Sample Applications</th>
+    </tr>
+    <tr>
+      <td>Lorem ipsum</td>
+      <td>right-aligned</td>
+      <td>$1600</td> 
+      <td>$1600</td>  
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+          <li>item2</li>
+          <li>item2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<img src="/lib/img/team-assets/monica.png" width="120px" alt="" class="round">
+### Monica Laurence ###
+##### Strategy #####
+Monica Laurence combines entertainment, technology and marketing to shape the identities of her clients and share them with the world. She believes that every individual, organization and place has a purpose and a unique contribution to make, and framed well, their stories can inspire each of us to rise to our fullest potential. Monica is attracted to game-changing disruption, working with innovative global firms and Silicon Valley start-ups to craft brand and identity, establish positioning and key messages, and define their strategies, business models, and marketing initiatives that yield success.
+
+ Monica has held CEO and CMO positions with entertainment, hospitality and social media start-ups. She managed corporate development and strategic planning at Lucasfilm, worked in motion picture marketing for Disney, drove sales and marketing for private island resort Turtle Island, and ran Tiny Planets, an award-winning children’s TV series and portal of online games in London. Monica holds a BS in Computer Science from Bucknell University and an MBA in Strategy and Entertainment from UCLA.
