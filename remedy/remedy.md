@@ -1,5 +1,5 @@
-## Remedy ##
-##### Experience & Identity #####
+## Remedy Partners ##
+##### Storytellinghttp://metapattern.github.io/remedy/#/, Culture & Identity #####
 
 *A proposal by Metapattern*
 
