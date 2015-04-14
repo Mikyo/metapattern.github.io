@@ -39,7 +39,6 @@ Capable, caring, and cutting edge: this is a truly modern healthcare company.
 
 You are the remedy.
 
---
 <!-- .slide: data-background="lib/img/remedy.jpg" class="white" -->
 
 
@@ -49,11 +48,12 @@ You are the remedy.
 ## Metapattern is a studio for emergent design. ##
 We are immersive storytellers: a nimble, multidisciplinary creative team rooted in rapid prototyping, identity design and filmmaking. We believe in working light and fast until things become ripe, then going deep to harvest. 
 
-We work with Fortune 100 innovation teams, including Nike, GE, Levi's, and Cisco to rapid-prototype their future and communicate it internally.  We work with startups to craft strategic direction and launch products.  We work with leaders and teams to create culture and build alignment. We love the people we work with.
+We work with Fortune 100 innovation teams, including Nike, GE, Levi's, and Cisco to rapid-prototype their future and build momentum behind it.  We work with startups to craft strategic direction and get to market gracefully.  We work with leaders and teams to create culture and build alignment. We love the work we do and who we do it with.
 
 Our process *is* our work. We embed to get close to the heartbeat.  Distilling the eternal to understand next steps.  And build things by taking away the nonessential.  Always with an eye for what's wanting to emerge.
 
 We are Metapattern.
+
 <!-- .slide: data-background="lib/img/stones.JPG" class="white" -->
 
 
