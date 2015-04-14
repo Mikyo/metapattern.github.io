@@ -17,7 +17,12 @@ and share our approach, philosophy and a selection of our work. Consider it a po
 ##### Where we are #####
 <br>
 ### Healthcare is the biggest issue of our time. ###
-Healthcare / ACA is Obama's legacy. It's the most important issue of our time. The innovations around bundled payments will put patients back in the center, alignining incentives for providers, and introducing efficiencies through improved collaboration and communication.
+ACA will be Obama's legacy. It's the most important issue of our time. Specifically, innovations around bundled payments put patients back in the center.
+
+A revolution is afoot. Bundled payments are the future. It started with Medicare, and it's only going to grow from here.
+
+It's time to bring humanity back to healthcare.
+
 <!-- .slide: data-background="lib/img/obama.jpg" class="narrow white" -->
 
 
@@ -25,13 +30,17 @@ Healthcare / ACA is Obama's legacy. It's the most important issue of our time. T
 ##### Who you are #####
 <br>
 ## Remedy blends expertise with innovation. ##
-Well funded, highly capable, and deeply relevant. You're growing fast, and this is truly just the beginning. Cooperation. Analytics. Modern healthcare. Episodes. 
+Your team has defined an industry once already. Highly capable, deeply relevant... a truly modern healthcare company. 
 
-Blends the deep experience in VC and healthcare companies with the juniors' contemporary technological approach (and energy!!). Killer combo.
+Blends the deep experience in VC, finance, technology and healthcare with the a fast growing, young and ambitious team. Cutting edge tech and analytics.
 
-Make sure that your brand, story and culture are dialed before this thing gets any bigger.
+You are the grandfather, "you can trust us" of the healthcare industry. Innovators. Pioneers. Facilitators of the future. A voice you can trust in the future of healthcare delivery.
 
-You are the grandfather, "you can trust us" of the healthcare industry. Innovators. Pioneers. Facilitators of the future.
+You are the remedy.
+
+--
+
+First mover. Thought leader. Blends deep expertise with industry-defining innovation. 
 <!-- .slide: data-background="lib/img/remedy.jpg" class="white" -->
 
 
@@ -39,19 +48,25 @@ You are the grandfather, "you can trust us" of the healthcare industry. Innovato
 ##### Who we are #####
 <br>
 ## Metapattern is a studio for emergent design. ##
-We are fast, immersive, storytellers: are a nimble, multidisciplinary creative team rooted in identity design,rapid prototyping and film. We believe in working light and fast until the work is ripe, then going deep to harvest 
+We are fast, immersive, storytellers: a nimble, multidisciplinary creative team rooted in identity design,rapid prototyping and film. We believe in working light and fast until the work is ripe, then going deep to harvest. 
+
+We work with Fortune 100 innovation teams, including Nike, GE Healthcare, Levi's, and Cisco to rapid-prototype their future.
 
 The process is the product. Work in the medium. Emotions before ideas. 
 
-We believe that our process is our work. The curiosity we cultivate in truly understanding your work will live on in deliverables that your entire company, today and tomorrow, can revist and build on.
+We believe that our process *is* our work. 
 
+How we do things. Why that matters. Steve will like light & fast. 
 
+Metapattern seeks to distill the eternal principles your company is based on, then infusing everything. 
 
 <!-- .slide: data-background="lib/img/stones.JPG" class="white" -->
 
 
 
 ## What will we do together? ##
+
+The curiosity we cultivate in truly understanding your work will live on in deliverables that your entire company, today and tomorrow, can revist and build on. 
 
 
 #### Lead a revolution. ####
@@ -62,6 +77,7 @@ We believe that our process is our work. The curiosity we cultivate in truly und
 
 #### Build a culture of passion. ####
 
+Make sure that your brand, story and culture are dialed before this thing gets any bigger.
 
 
 # Let's bring humanity </br> back to healthcare, together.#
