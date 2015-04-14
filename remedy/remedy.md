@@ -38,7 +38,7 @@ Blends the elder's experience in VC and healthcare companies with the juniors' c
 We are fast, immersive, storytellers: are a nimble, multidisciplinary creative team rooted in identity design,rapid prototyping and film.  
 
 The process is the product. Work in the medium. Emotions before ideas. 
-<!-- .slide: data-background="lib/img/stones.jpg" class="white" -->
+<!-- .slide: data-background="lib/img/stones.JPG" class="white" -->
 
 
 
