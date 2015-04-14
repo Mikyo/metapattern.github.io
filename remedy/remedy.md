@@ -62,34 +62,26 @@ We are Metapattern.
 <br>
 ## What's possible together? ##
 
-The curiosity we cultivate in truly understanding your work will live on in deliverables that your entire company, today and tomorrow, can revist and build on. 
+The curiosity we cultivate in truly understanding your work will live on in a media that your entire company, today and tomorrow, can revist and build on. 
 
 
-#### Lead a revolution ####
-*(through the power of film)*
+#### Lead a revolution. ####
+*(through the power of story)*
 
-Human-Centered Healthcare.
-CMS Innovation > Broad Public. In 2 years, everything will work this way.
-Obama’s Legacy, healthcare reform.
+We will champion human-centered healthcare, driecting the difinitive short film that reveals and crystallizes the revolution that's already taking place. Our story moves between single patient and doctor stories to reveal the difference in user experience, out to the industry as a whole and the economic reform taking place through bundled payments and episodic care.  
 
 
-#### Build a culture of passion ####
+#### Build a culture of passion. ####
 (through interactive storytelling).
 
-Hiring 5-10 new people / week. They know what Remedy is, but not why it is.
-Creating internal alignment, trust, solidarity, excitement.
-Recruiting & retaining the best talent in the industry.
+We will build Remedy's culture by creating a core identity and communicating it internally through an integrated microsite.  When you're hiring 5-10 new people per week, you'll have a compelling tool for onboarding and educating them about Remedy's deep purpose. It'll build alignment, trust, solidarity, excitement, and a shared understanding amongst current and future employees, and will help you attract and retain the best talent in the industry.
 
 
-#### Launch a world-class brand ####
+#### Launch a world-class brand. ####
 *(through simple, clear design)*
 
-Iconic
-Lead the movement.
-We are facilitating of the future of health.
-Change agents. Innovators. Who care.
-Gentle masculine; trustworthy; contemporary.
-
+We will build a brand that signals Remedy as the the future of health.
+Need more from Carson here.
 
 
 ##### What's next #####
