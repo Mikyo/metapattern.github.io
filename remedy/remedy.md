@@ -13,15 +13,15 @@ and share our approach, philosophy and a selection of our work. Consider it a po
 <br><br>
 
 
-Spacebar or Right Arrow
+Press the Spacebar or Right Arrow Key
 
 
 ##### Where we are #####
 <br>
 ### Healthcare is the biggest issue of our time. ###
-ACA will be Obama's legacy. It's the most important issue of our time. Specifically, innovations around bundled payments put patients back in the center.
+The Affordable Care Act will be Obama's great legacy. It's the most important issue of our time. And a revolution is afoot.
 
-A revolution is afoot. Bundled payments are the future. It started with Medicare, and it's only going to grow from here.
+Innovations around bundled payments are inverting industry economics and puting patients back at the center. It started with Medicare, but that is just the beginning. 
 
 It's time to bring humanity back to healthcare.
 
@@ -31,18 +31,14 @@ It's time to bring humanity back to healthcare.
 
 ##### Who you are #####
 <br>
-## Remedy blends expertise with innovation. ##
-Your team has defined an industry once already. Highly capable, deeply relevant... a truly modern healthcare company. 
+## Remedy Partners blends deep expertise with a spirit of innovation. ##
+Your team has defined an industry once already. Blending incredible expertise across sectors: venture capital, finance, technology, public policy, and healthcare with a fast growing, young and ambitious team.
 
-Blends the deep experience in VC, finance, technology and healthcare with the a fast growing, young and ambitious team. Cutting edge tech and analytics.
-
-You are the grandfather, "you can trust us" of the healthcare industry. Innovators. Pioneers. Facilitators of the future. A voice you can trust in the future of healthcare delivery.
+Capable, caring, and cutting edge: this is a truly modern healthcare company. 
 
 You are the remedy.
 
 --
-
-First mover. Thought leader. Blends deep expertise with industry-defining innovation. 
 <!-- .slide: data-background="lib/img/remedy.jpg" class="white" -->
 
 
@@ -50,18 +46,13 @@ First mover. Thought leader. Blends deep expertise with industry-defining innova
 ##### Who we are #####
 <br>
 ## Metapattern is a studio for emergent design. ##
-We are fast, immersive, storytellers: a nimble, multidisciplinary creative team rooted in identity design,rapid prototyping and film. We believe in working light and fast until the work is ripe, then going deep to harvest. 
+We are immersive storytellers: a nimble, multidisciplinary creative team rooted in rapid prototyping, identity design and filmmaking. We believe in working light and fast until things become ripe, then going deep to harvest. 
 
-We work with Fortune 100 innovation teams, including Nike, GE Healthcare, Levi's, and Cisco to rapid-prototype their future.
+We work with Fortune 100 innovation teams, including Nike, GE, Levi's, and Cisco to rapid-prototype their future and communicate it internally.  We work with startups to craft strategic direction and launch products.  We work with leaders and teams to create culture and build alignment. We love the people we work with.
 
-The process is the product. Work in the medium. Emotions before ideas. 
+Our process *is* our work. We embed to get close to the heartbeat.  Distilling the eternal to understand next steps.  And build things by taking away the nonessential.  Always with an eye for what's wanting to emerge.
 
-We believe that our process *is* our work. 
-
-How we do things. Why that matters. Steve will like light & fast. 
-
-Metapattern seeks to distill the eternal principles your company is based on, then infusing everything. 
-
+We are Metapattern.
 <!-- .slide: data-background="lib/img/stones.JPG" class="white" -->
 
 
@@ -72,7 +63,7 @@ The curiosity we cultivate in truly understanding your work will live on in deli
 
 
 #### Lead a revolution. ####
-
+Through capturing history.
 
 
 #### Launch a world-class brand. ####
@@ -81,8 +72,6 @@ Through simple, clear design.
 
 #### Build a culture of passion. ####
 Through interactive storytelling.
-
-Make sure that your brand, story and culture are dialed before this thing gets any bigger.
 
 
 
