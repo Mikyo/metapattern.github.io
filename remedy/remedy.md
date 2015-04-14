@@ -1,9 +1,12 @@
 
 # Remedy Partners #
 ##### Storytelling, Culture & Identity #####
-
-*A proposal from Metapattern*
-
+<br>
+*An interactive proposal from Metapattern.*
+<br><br>
+-
+<br><br>
+Press the __Spacebar__ or __Right Arrow__ key to advance.
 
 
 ## Welcome. ##
@@ -13,15 +16,13 @@ and share our approach, philosophy and a selection of our work. Consider it a po
 <br><br>
 
 
-Press the Spacebar or Right Arrow Key
-
 
 ##### Where we are #####
 <br>
 ### Healthcare is the biggest issue of our time. ###
-The Affordable Care Act will be Obama's great legacy. It's the most important issue of our time. And a revolution is afoot.
+The Affordable Care Act will be Obama's great legacy. It's the most important issue of our time. 
 
-Innovations around bundled payments are inverting industry economics and puting patients back at the center. It started with Medicare, but that is just the beginning. 
+A revolution is afoot. Innovations around bundled payments are inverting industry economics and puting patients back at the center. It started with Medicare, but that is just the beginning. 
 
 It's time to bring humanity back to healthcare.
 
@@ -57,46 +58,62 @@ We are Metapattern.
 
 
 
-## What will we do together? ##
+##### Where we're going #####
+<br>
+## What's possible together? ##
 
 The curiosity we cultivate in truly understanding your work will live on in deliverables that your entire company, today and tomorrow, can revist and build on. 
 
 
 #### Lead a revolution. ####
-Through capturing history.
+*(through the power of film)*
 
+Human-Centered Healthcare.
+CMS Innovation > Broad Public. In 2 years, everything will work this way.
+Obama’s Legacy, healthcare reform.
 
-#### Launch a world-class brand. ####
-Through simple, clear design.
+<!-- .slide: data-background="lib/img/case-ahr.jpg" class="narrow" -->
 
 
 #### Build a culture of passion. ####
-Through interactive storytelling.
+(through interactive storytelling).
+
+Hiring 5-10 new people / week. They know what Remedy is, but not why it is.
+Creating internal alignment, trust, solidarity, excitement.
+Recruiting & retaining the best talent in the industry.
+
+
+#### Launch a world-class brand. ####
+*(through simple, clear design)*
+
+Iconic
+Lead the movement.
+We are facilitating of the future of health.
+Change agents. Innovators. Who care.
+Gentle masculine; trustworthy; contemporary.
 
 
 
 ##### Timeline #####
-
-
-Phase 1 / Video + Culture
-
-Phase 2 / Visual Identity
-
-Phase 3 / Multiple Videos
+<br>
+<img src="/lib/img/chart-process.svg" width="140%" />
 
 
 
 ##### Budget #####
 
 
-##### Phase 1. #####
+
+##### What's next #####
+<br>
+### Let's start simply. ###
 We will do so much work, the culture building assets which no one else does. We'll build a video and your culture alone with it.
 
 
-
-##### Next Steps #####
-
-
-Start with Phase 1. 
-
 # Let's bring humanity </br> back to healthcare, together.#
+
+
+
+# Thank you. # 
+
+<!-- .slide: data-background="lib/img/splat.jpg" class="white" -->
