@@ -94,7 +94,10 @@ Gentle masculine; trustworthy; contemporary.
 
 ##### What's next #####
 <br>
-### Let's start simply. ###
+# Let's start simply. #
 We will do so much work, the culture building assets which no one else does. We'll build a video and your culture alone with it.
 
-# Let's bring humanity back to healthcare.#
+Let's bring humanity back to healthcare.
+<br><br>
+##### <a href="https://docs.google.com/a/metapattern.is/document/d/1v0AMw2u7CUg7jCYoxUYKbkP2B08a1pxzdMT2qwD9YmI/edit" class="btn"> See our Detailed Proposal </a> #####
+

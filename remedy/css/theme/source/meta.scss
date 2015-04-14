@@ -1,8 +1,5 @@
 /**
- * A simple theme for reveal.js presentations, similar
- * to the default theme. The accent color is brown.
- *
- * This theme is Copyright (C) 2012-2013 Owen Versteeg, http://owenversteeg.com - it is MIT licensed.
+ * Metapattern is a studio for emergent design.
  */
 
 
@@ -167,6 +164,7 @@ img.display {
 	h2 {
 		font-family: 'Gotham SSm A', 'Gotham SSm B', Gotham;
 		margin-bottom: 0.6em !important;
+		font-
 	}
 
 	h3 {
@@ -178,7 +176,7 @@ img.display {
 		text-transform: uppercase !important;
 		letter-spacing: .6em;
 		font-weight: 500;
-		font-size: 0.7em;
+		font-size: 0.65em;
 		letter-spacing: 0.6em !important;
 		margin-bottom: 1.2em !important;
 		// position: fixed;
@@ -198,6 +196,13 @@ img.display {
 		margin-bottom: 1em !important;
 		margin-top: 2em !important;
 
+	}
+
+	.btn {
+		color: white !important;
+		  background-color: #9b9793;
+		  padding: 1em 3em;
+		  border-radius: 3em;
 	}
 
 	hr {
