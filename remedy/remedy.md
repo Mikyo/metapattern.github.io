@@ -13,6 +13,8 @@ and share our approach, philosophy and a selection of our work. Consider it a po
 <br><br>
 
 
+Spacebar or Right Arrow
+
 
 ##### Where we are #####
 <br>
@@ -72,12 +74,40 @@ The curiosity we cultivate in truly understanding your work will live on in deli
 #### Lead a revolution. ####
 
 
+
 #### Launch a world-class brand. ####
+Through simple, clear design.
 
 
 #### Build a culture of passion. ####
+Through interactive storytelling.
 
 Make sure that your brand, story and culture are dialed before this thing gets any bigger.
 
+
+
+##### Timeline #####
+
+
+Phase 1 / Video + Culture
+
+Phase 2 / Visual Identity
+
+Phase 3 / Multiple Videos
+
+
+
+##### Budget #####
+
+
+##### Phase 1. #####
+We will do so much work, the culture building assets which no one else does. We'll build a video and your culture alone with it.
+
+
+
+##### Next Steps #####
+
+
+Start with Phase 1. 
 
 # Let's bring humanity </br> back to healthcare, together.#
