@@ -72,8 +72,6 @@ Human-Centered Healthcare.
 CMS Innovation > Broad Public. In 2 years, everything will work this way.
 Obama’s Legacy, healthcare reform.
 
-<!-- .slide: data-background="lib/img/case-ahr.jpg" class="narrow" -->
-
 
 #### Build a culture of passion. ####
 (through interactive storytelling).
@@ -94,26 +92,9 @@ Gentle masculine; trustworthy; contemporary.
 
 
 
-##### Timeline #####
-<br>
-<img src="/lib/img/chart-process.svg" width="140%" />
-
-
-
-##### Budget #####
-
-
-
 ##### What's next #####
 <br>
 ### Let's start simply. ###
 We will do so much work, the culture building assets which no one else does. We'll build a video and your culture alone with it.
 
-
-# Let's bring humanity </br> back to healthcare, together.#
-
-
-
-# Thank you. # 
-
-<!-- .slide: data-background="lib/img/splat.jpg" class="white" -->
+# Let's bring humanity back to healthcare.#
