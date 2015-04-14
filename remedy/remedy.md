@@ -65,7 +65,7 @@ We are Metapattern.
 The curiosity we cultivate in truly understanding your work will live on in deliverables that your entire company, today and tomorrow, can revist and build on. 
 
 
-#### Lead a revolution. ####
+#### Lead a revolution ####
 *(through the power of film)*
 
 Human-Centered Healthcare.
@@ -73,7 +73,7 @@ CMS Innovation > Broad Public. In 2 years, everything will work this way.
 Obama’s Legacy, healthcare reform.
 
 
-#### Build a culture of passion. ####
+#### Build a culture of passion ####
 (through interactive storytelling).
 
 Hiring 5-10 new people / week. They know what Remedy is, but not why it is.
@@ -81,7 +81,7 @@ Creating internal alignment, trust, solidarity, excitement.
 Recruiting & retaining the best talent in the industry.
 
 
-#### Launch a world-class brand. ####
+#### Launch a world-class brand ####
 *(through simple, clear design)*
 
 Iconic
